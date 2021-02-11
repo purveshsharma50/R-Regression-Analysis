@@ -1,0 +1,84 @@
+---
+title: "Final_Exam_Q12"
+author: "Purvesh"
+date: "5/7/2020"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(car)
+library(leaps)
+library(qqplotr)
+library(alr3)
+```
+
+```{r, message=FALSE}
+library(readr)
+CandyData <- read_csv("~/Documents/TXST Study Material/Regression Analysis/Assignments/final Exam/CandyData.csv")
+```
+
+# Section a
+
+The variable Candy shows the name of the candy teste, Nwins and Nlosses show the results of the trials.This is a situation where the response variable has only two possible outcomes,Nwins and Nlosses, generically called success and failure and denoted by 0 and 1. Therefore Logistic Regression is good for this case.
+
+
+# Section b.
+
+1. yes, model is significant as we can see most of the values are less than 0.05,  and the difference between Null deviance and Residual deviance tells us that the model is a good fit. Greater the difference better the model. Null deviance is the value when you only have intercept in your equation with no variables and Residual deviance is the value when you are taking all the variables into account. It makes sense to consider the model good if that difference is big enough.
+
+2. In comparision of Chocholate,nougat and bar; "Chocholate" is the most significant property of in the candies as we can see in the P-values, Chocholate has z value of 67.286 with P value of less than < 2e-16, after that "Bar" is second and at last, "nougat" is least significant in candies.
+
+3. Chocholate coefficient is 0.71223(positive) with a Z-value of 67.286 which shows it is most significant variable in the model. we can also observe the confidence level of chocholate [0.69148312  0.732976119]
+
+4. Are more expensive candies more popular, for this question a graph is plotted which is shown below: 
+in the graph we can see number of count are more for the cheaper and mid price candies, which means people prefer economical candies.
+and in another graph, which is plotted between price vs sugar percentage which shows that, initially price increases with sugarpercentage upto some limit.
+
+
+```{r}
+logit1=glm(cbind(Nwins, Nlosses)~chocolate+sugarpercent+nougat+bar+price, data  = CandyData,family = binomial)
+par(mfrow=c(2,2))
+summary(logit1)
+plot(logit1)
+```
+
+```{r}
+confint.default(logit1)
+```
+
+```{r}
+CandyData%>%ggplot(aes(x = price))+geom_histogram()
+```
+```{r}
+CandyData%>%ggplot(aes(x=sugarpercent, y = price))+geom_point()+geom_smooth()+
+  labs("Price vs SugarPercentage")
+```
+```{r}
+CandyData%>%ggplot(aes(x=sugarpercent, y = price))+geom_point()+
+  geom_smooth(method = "lm")+
+  labs("Using linear model to show trend")
+```
+# section c.
+
+In this section we are supposed to add "Fruity" to the logistic regression model. 
+Here few thing to observe are; P- value changed for "Nougat" and "Price".
+Nougat P-value is 0.996 which insignificant with negative coefficient and negative Z value. P value of Nougat changed because of is negative values in coefficient and z-value.
+            Estimate   Std. Error   z value   Pr(>|z|)  
+nougat     -0.0001002  0.0179737   -0.006    0.996 
+
+
+```{r}
+logit2=glm(cbind(Nwins, Nlosses)~chocolate+sugarpercent+nougat+bar+price+fruity , data  = CandyData, family = binomial)
+par(mfrow=c(2,2))
+summary(logit2)
+plot(logit2)
+```
+
+```{r}
+confint.default(logit2)
+```

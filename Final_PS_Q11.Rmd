@@ -1,0 +1,133 @@
+---
+title: "Final_Exam_Q11"
+author: "Purvesh"
+date: "5/7/2020"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(car)
+library(leaps)
+library(qqplotr)
+library(alr3)
+library(olsrr)
+```
+```{r}
+view(galapagos)
+```
+
+# Galapahos is the dataset which consists following variables which are mentioned below: 
+
+NS
+Number of Species
+
+ES
+Number of endemic species (orrur only on that island)
+
+Area
+Surface area of island, hectares
+
+Anear
+Area of closest island, hectares
+
+Dist
+Distance to closest island, km
+
+DistSC
+Distance from Santa Cruz Island, km
+
+Elevation
+Elevation in m, missing values given as zero
+
+EM
+1 if elevation is observed, 0 if missing 
+
+# section a.
+
+In this section we are asked to perform MLR to investigate relationship.
+here, It is observed that Number of endemic species is the most significant and if we see at overall model P value is 1.075e-09 which is good. 
+R-squared:  0.9525,	Adjusted R-squared:  0.9346 
+here we can observe that individual variables are not good in value, it means there is colinearity(see colinearity below)
+Apart from regression Residual and influence plot is plotted where we can observe the influncing points and different plots.
+In residual vs leverage graph we can see "Isabela" is affecting the model.
+
+```{r}
+model<-lm(NS~., data=galapagos)
+par(mfrow=c(2,2))
+summary(model)
+modeladj.r2 = summary(model)$adj.r.squared
+model.r2 = summary(model)$r.squared
+plot(model)
+influenceIndexPlot(model)
+```
+
+```{r}
+cor(galapagos)
+```
+```{r}
+model.step = lm(NS~., data =galapagos)
+ols_step_forward_p(model.step)
+ols_step_both_p(model.step )
+```
+
+
+# Section b.
+
+In this we are asked to perform Trransformation. As we can see in the previous section Residual plots, Best transformation we can fit here is BOXCOX, with BoxCox we got lambda value = 0.5858586. This value will be used for transformation in the model.
+After performing the transformation, it is observed that: 
+R-squared:  0.9685,	Adjusted R-squared:  0.9566 is increased from the previous  untransformed model.
+p-value: 4.153e-11 there is changes in P value as well, which tells transformation is good for the model.
+one more thing is to observe residual plots are changed and much better than the untranformed model. cook's distance much more in Residual and Leverage plot and we can check same things in influence plot.
+After this, graphical representation is done for the adj R square as well with untransformed and transformed model.
+
+```{r}
+bxmodel <- boxCox(model)
+lambda <- bxmodel$x[which.max(bxmodel$y)]
+lambda
+```
+
+```{r}
+Tmodel<- lm(NS^(0.5858586)~., data = galapagos)
+par(mfrow=c(2,2))
+summary(Tmodel)
+Tmodeladj.r2 = summary(Tmodel)$adj.r.squared
+Tmodel.r2 = summary(Tmodel)$r.squared
+plot(Tmodel)
+influenceIndexPlot(Tmodel)
+```
+```{r}
+Tmodel.full = lm(NS^(0.5858586)~., data = galapagos)
+ols_step_forward_p(Tmodel.full)
+ols_step_both_p(Tmodel.full )
+```
+
+```{r}
+notquiteall.models =regsubsets(NS~., data = galapagos, nbest = 1 ) 
+plot(notquiteall.models, scale = "adjr2")
+```
+```{r}
+notquiteall.Tmodels =regsubsets(NS^(0.5858586)~., data = galapagos, nbest = 1 ) 
+plot(notquiteall.Tmodels, scale = "adjr2")
+```
+```{r}
+regsubsets(NS^(0.5858586)~.,data= galapagos, nbest = 3) -> all.models 
+summary(all.models) -> summ
+summ
+```
+
+# Section c.
+
+Here is the chart comparision of results before and after transformation in R-square and Adj R-square.
+
+
+```{r}
+results = data.frame(modeladj.r2, Tmodeladj.r2,model.r2,Tmodel.r2)
+round(results,3)
+```
+
+

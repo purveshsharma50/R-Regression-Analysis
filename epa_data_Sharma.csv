@@ -1,0 +1,1001 @@
+"","make","model","year","type","displacement","transmission","cylinders","mpg_city","mpg_hw","mpg_overall","Automatic","FrontWheel","Diesel"
+"1","Volkswagen","Vanagon 2WD",1984,"Vans, Passenger Type",1.9,"Manual",4,15,18,16.35,0,0,0
+"2","Suzuki","Swift",1996,"Subcompact Cars",1.3,"Automatic",4,26,31,28.25,1,1,0
+"3","GMC","Sierra 1500 2WD",1995,"Standard Pickup Trucks",5.7,"Manual",8,13,17,14.8,0,0,0
+"4","Ford","F250 Pickup 4WD",1985,"Standard Pickup Trucks",5,"Automatic",8,13,16,14.35,1,0,0
+"5","Audi","S4",2005,"Compact Cars",4.2,"Manual",8,13,20,16.15,0,0,0
+"6","Dodge","W100/W150 Pickup 4WD",1987,"Standard Pickup Trucks",5.2,"Automatic",8,11,13,11.9,1,0,0
+"7","Cadillac","CT6 AWD",2018,"Large Cars",3,"Automatic",6,18,26,21.6,1,0,0
+"8","BMW","X5 4.8i",2007,"Sport Utility Vehicle - 4WD",4.8,"Automatic",8,14,19,16.25,1,0,0
+"9","Chevrolet","Corvette",2001,"Two Seaters",5.7,"Manual",8,17,26,21.05,0,0,0
+"10","Porsche","911 Carrera 4 Cabriolet",2011,"Minicompact Cars",3.6,"Automatic",6,18,26,21.6,1,0,0
+"11","Chevrolet","Malibu Limited",2016,"Midsize Cars",2.5,"Automatic",4,23,33,27.5,1,1,0
+"12","Cadillac","SRX AWD",2012,"Sport Utility Vehicle - 4WD",3.6,"Automatic",6,12,23,16.95,1,0,0
+"13","Chevrolet","T10 (S10) Blazer 4WD",1984,"Special Purpose Vehicle 4WD",2,"Manual",4,18,24,20.7,0,0,0
+"14","Fiat","500",2014,"Minicompact Cars",1.4,"Manual",4,30,38,33.6,0,1,0
+"15","Ram","1500 4WD",2013,"Standard Pickup Trucks 4WD",3.6,"Automatic",6,16,16,16,1,0,0
+"16","Lotus","Esprit Turbo",1991,"Two Seaters",2.2,"Manual",4,15,25,19.5,0,0,0
+"17","Subaru","BRZ",2019,"Minicompact Cars",2,"Automatic",4,24,33,28.05,1,0,0
+"18","Mitsubishi","Mirage",1991,"Subcompact Cars",1.6,"Automatic",4,19,26,22.15,1,1,0
+"19","Infiniti","Q45",1991,"Midsize Cars",4.5,"Automatic",8,15,20,17.25,1,0,0
+"20","Pontiac","Sunbird",1992,"Subcompact Cars",3.1,"Manual",6,17,26,21.05,0,1,0
+"21","Ford","Mustang",2007,"Subcompact Cars",4.6,"Manual",8,15,23,18.6,0,0,0
+"22","Suzuki","Kizashi AWD",2013,"Compact Cars",2.4,"Automatic",4,22,29,25.15,1,0,0
+"23","Volvo","S60 FWD",2009,"Compact Cars",2.4,"Automatic",5,18,26,21.6,1,1,0
+"24","Dodge","Caravan/Grand Caravan/Ram Van 2WD",1987,"Special Purpose Vehicle 2WD",2.6,"Automatic",4,17,20,18.35,1,1,0
+"25","Isuzu","Trooper",1991,"Special Purpose Vehicles",2.6,"Automatic",4,14,17,15.35,1,0,0
+"26","Ford","C-MAX Energi Plug-in Hybrid",2015,"Midsize Cars",2,"Automatic",4,40,36,38.2,1,1,0
+"27","Dodge","Durango RWD",2016,"Standard Sport Utility Vehicle 2WD",5.7,"Automatic",8,14,22,17.6,1,0,0
+"28","Rolls-Royce","Park Ward",2001,"Large Cars",5.4,"Automatic",12,11,15,12.8,1,0,0
+"29","Audi","A4 quattro",2001,"Compact Cars",1.8,"Manual",4,19,27,22.6,0,0,0
+"30","Ford","Mustang",1986,"Subcompact Cars",5,"Manual",8,15,23,18.6,0,0,0
+"31","GMC","Sierra 2WD",2020,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,15,19,16.8,1,0,0
+"32","Porsche","Turbo 4 911 S",2005,"Minicompact Cars",3.6,"Manual",6,13,20,16.15,0,0,0
+"33","Kia","Sportage 2WD",2014,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,21,28,24.15,1,1,0
+"34","Mitsubishi","Mirage",1990,"Subcompact Cars",1.6,"Automatic",4,21,26,23.25,1,1,0
+"35","Oldsmobile","Cutlass Cruiser",1987,"Midsize-Large Station Wagons",2.8,"Automatic",6,17,22,19.25,1,1,0
+"36","Ford","Escape Hybrid FWD",2011,"Sport Utility Vehicle - 2WD",2.5,"Automatic",4,34,30,32.2,1,1,0
+"37","STI","S209",2019,"Compact Cars",2.5,"Manual",4,15,21,17.7,0,0,0
+"38","Chevrolet","K10 Blazer 4WD",1985,"Special Purpose Vehicle 4WD",5,"Manual",8,12,16,13.8,0,0,0
+"39","Mercury","Sable Wagon",2005,"Midsize Station Wagons",3,"Automatic",6,17,24,20.15,1,1,0
+"40","Mitsubishi","Mirage",1986,"Subcompact Cars",1.5,"Manual",4,28,35,31.15,0,1,0
+"41","Oldsmobile","Achieva",1996,"Compact Cars",2.4,"Manual",4,20,30,24.5,0,1,0
+"42","Mercedes-Benz","S430",2002,"Large Cars",4.3,"Automatic",8,15,22,18.15,1,0,0
+"43","Mitsubishi","Eclipse",1997,"Subcompact Cars",2,"Manual",4,19,26,22.15,0,0,0
+"44","Mitsubishi","Diamante",2000,"Midsize Cars",3.5,"Automatic",6,16,23,19.15,1,1,0
+"45","Jeep","Wrangler 4WD",2002,"Sport Utility Vehicle - 4WD",4,"Automatic",6,13,16,14.35,1,0,0
+"46","BMW","735i",1990,"Midsize Cars",3.4,"Automatic",6,14,20,16.7,1,0,0
+"47","Mitsubishi","Mirage",1995,"Subcompact Cars",1.8,"Automatic",4,23,30,26.15,1,1,0
+"48","Kia","Forte",2014,"Midsize Cars",1.8,"Automatic",4,24,35,28.95,1,1,0
+"49","Jeep","Grand Cherokee 2WD",2014,"Standard Sport Utility Vehicle 2WD",5.7,"Automatic",8,14,22,17.6,1,0,0
+"50","Chevrolet","Camaro",1995,"Subcompact Cars",5.7,"Automatic",8,15,23,18.6,1,0,0
+"51","Jaguar","XK Convertible",2010,"Minicompact Cars",5,"Automatic",8,16,22,18.7,1,0,0
+"52","Infiniti","Q70",2018,"Midsize Cars",5.6,"Automatic",8,16,24,19.6,1,0,0
+"53","Mazda","B2200/B2600",1988,"Small Pickup Trucks",2.2,"Manual",4,18,24,20.7,0,0,0
+"54","Toyota","T100 2WD",1998,"Standard Pickup Trucks 2WD",3.4,"Automatic",6,16,19,17.35,1,0,0
+"55","Dodge","W250 Pickup 4WD",1988,"Standard Pickup Trucks",5.2,"Manual",8,11,14,12.35,0,0,0
+"56","Chrysler","Sebring",2002,"Compact Cars",2.4,"Automatic",4,19,26,22.15,1,1,0
+"57","Ford","F250 Pickup 4WD",1986,"Standard Pickup Trucks",5,"Automatic",8,12,17,14.25,1,0,0
+"58","Chevrolet","Cavalier Dual-fuel",2002,"Subcompact Cars",2.2,"Automatic",4,18,28,22.5,1,1,0
+"59","Ford","Escort Wagon",1999,"Small Station Wagons",2,"Manual",4,24,34,28.5,0,1,0
+"60","Chevrolet","Tahoe 1500 2WD",2004,"Sport Utility Vehicle - 2WD",4.8,"Automatic",8,14,18,15.8,1,0,0
+"61","Nissan","Titan 4WD",2009,"Standard Pickup Trucks 4WD",5.6,"Automatic",8,12,17,14.25,1,0,0
+"62","GMC","Sierra C15 2WD",2008,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,11,15,12.8,1,0,0
+"63","Mercedes-Benz","SL55 AMG",2008,"Two Seaters",5.4,"Automatic",8,12,17,14.25,1,0,0
+"64","GMC","T15 (S15) Jimmy 4WD",1985,"Special Purpose Vehicle 4WD",2.8,"Manual",6,14,21,17.15,0,0,0
+"65","Dodge","Dakota Pickup 4WD",1996,"Standard Pickup Trucks",3.9,"Automatic",6,13,17,14.8,1,0,0
+"66","Cadillac","SRX 2WD",2009,"Sport Utility Vehicle - 2WD",4.6,"Automatic",8,13,20,16.15,1,0,0
+"67","Chrysler","Town and Country",2012,"Minivan - 2WD",3.6,"Automatic",6,12,18,14.7,1,1,0
+"68","Geo","Tracker Convertible 4x4",1997,"Special Purpose Vehicles",1.6,"Automatic",4,21,22,21.45,1,0,0
+"69","Nissan","Juke",2014,"Small Station Wagons",1.6,"Automatic",4,27,31,28.8,1,1,0
+"70","Ford","Flex AWD",2015,"Standard Sport Utility Vehicle 4WD",3.5,"Automatic",6,16,22,18.7,1,0,0
+"71","Subaru","Legacy Wagon AWD Turbo",1992,"Small Station Wagons",2.2,"Automatic",4,16,22,18.7,1,0,0
+"72","BMW","325i Convertible",1989,"Subcompact Cars",2.5,"Automatic",6,16,21,18.25,1,0,0
+"73","Subaru","WRX",2018,"Compact Cars",2,"Manual",4,21,27,23.7,0,0,0
+"74","Chevrolet","Tahoe 1500 2WD",2011,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,15,21,17.7,1,0,0
+"75","Chevrolet","Equinox FWD",2012,"Sport Utility Vehicle - 2WD",3,"Automatic",6,17,17,17,1,1,0
+"76","Subaru","Impreza AWD",2011,"Compact Cars",2.5,"Manual",4,17,22,19.25,0,0,0
+"77","Mercedes-Benz","GLE350 4matic",2016,"Standard Sport Utility Vehicle 4WD",3.5,"Automatic",6,18,22,19.8,1,0,0
+"78","BMW","330i",2018,"Compact Cars",2,"Manual",4,21,32,25.95,0,0,0
+"79","Ford","Focus FWD FFV",2013,"Compact Cars",2,"Manual",4,19,26,22.15,0,1,0
+"80","Suzuki","Aerio SX",2003,"Small Station Wagons",2,"Automatic",4,22,28,24.7,1,1,0
+"81","Saab","9000",1989,"Large Cars",2,"Automatic",4,17,24,20.15,1,1,0
+"82","Ford","Bronco II 2WD",1986,"Special Purpose Vehicle 2WD",2.9,"Automatic",6,16,21,18.25,1,0,0
+"83","Pontiac","G3 Wave 5",2009,"Subcompact Cars",1.6,"Automatic",4,25,34,29.05,1,1,0
+"84","Lamborghini","L-140/141 Gallardo",2004,"Two Seaters",5,"Automatic",10,9,16,12.15,1,0,0
+"85","Mazda","Protege",1994,"Compact Cars",1.8,"Automatic",4,21,29,24.6,1,1,0
+"86","Honda","Accord",2007,"Midsize Cars",2.4,"Automatic",4,21,31,25.5,1,1,0
+"87","Kia","Rio Eco",2013,"Compact Cars",1.6,"Automatic",4,30,36,32.7,1,1,0
+"88","Volkswagen","Passat 4motion",2004,"Compact Cars",1.8,"Automatic",4,18,26,21.6,1,0,0
+"89","Kia","Niro Touring",2017,"Small Station Wagons",1.6,"Automatic",4,46,40,43.3,1,1,0
+"90","Porsche","Boxster",2011,"Two Seaters",2.9,"Automatic",6,20,29,24.05,1,0,0
+"91","Chevrolet","Tahoe 1500 4WD",1995,"Special Purpose Vehicles",5.7,"Manual",8,11,15,12.8,0,0,0
+"92","Cadillac","CTS Sedan AWD",2014,"Midsize Cars",2,"Automatic",4,19,28,23.05,1,0,0
+"93","Volkswagen","Passat Wagon",2002,"Midsize Station Wagons",2.8,"Manual",6,18,26,21.6,0,1,0
+"94","GMC","Acadia AWD",2017,"Standard Sport Utility Vehicle 4WD",3.6,"Automatic",6,18,25,21.15,1,0,0
+"95","Ford","F150 Pickup 2WD",1998,"Standard Pickup Trucks 2WD",4.6,"Manual",8,13,17,14.8,0,0,0
+"96","Infiniti","Q50 Hybrid",2018,"Compact Cars",3.5,"Automatic",6,27,32,29.25,1,0,0
+"97","Chevrolet","Camaro",1985,"Subcompact Cars",2.8,"Manual",6,16,25,20.05,0,0,0
+"98","Nissan","200SX",1985,"Subcompact Cars",2,"Manual",4,19,24,21.25,0,0,0
+"99","Porsche","Turbo 4 911 Turbo",2007,"Minicompact Cars",3.6,"Manual",6,16,23,19.15,0,0,0
+"100","GMC","K2500 Sierra 4WD",1991,"Standard Pickup Trucks",4.3,"Manual",6,14,16,14.9,0,0,0
+"101","Ford","Escape 2WD",2001,"Sport Utility Vehicle - 2WD",2,"Manual",4,21,26,23.25,0,1,0
+"102","Jaguar","S-Type 4.2 Litre",2003,"Midsize Cars",4.2,"Automatic",8,15,24,19.05,1,0,0
+"103","GMC","Yukon C10 2WD",2014,"Standard Sport Utility Vehicle 2WD",6.2,"Automatic",8,14,15,14.45,1,0,0
+"104","Buick","Enclave FWD",2008,"Sport Utility Vehicle - 2WD",3.6,"Automatic",6,16,24,19.6,1,1,0
+"105","Subaru","Outback AWD",2013,"Small Sport Utility Vehicle 4WD",2.5,"Automatic",4,24,30,26.7,1,0,0
+"106","Ford","Taurus AWD",2012,"Large Cars",3.5,"Automatic",6,17,25,20.6,1,0,0
+"107","Mercury","Sable",1996,"Midsize Cars",3,"Automatic",6,18,26,21.6,1,1,0
+"108","Porsche","Turbo 4 911 Kit",2004,"Minicompact Cars",3.6,"Automatic",6,13,20,16.15,1,0,0
+"109","Ford","F250 Pickup 2WD",1985,"Standard Pickup Trucks",5.8,"Automatic",8,10,12,10.9,1,0,0
+"110","Audi","100",1990,"Midsize Cars",2.3,"Automatic",5,16,22,18.7,1,1,0
+"111","Acura","RDX AWD",2019,"Small Sport Utility Vehicle 4WD",2,"Automatic",4,21,27,23.7,1,0,0
+"112","Isuzu","Amigo 2WD",1991,"Special Purpose Vehicles",2.6,"Manual",4,15,19,16.8,0,0,0
+"113","Lexus","IS 350",2014,"Compact Cars",3.5,"Automatic",6,19,28,23.05,1,0,0
+"114","Toyota","Corolla Wagon",1989,"Small Station Wagons",1.6,"Automatic",4,23,28,25.25,1,1,0
+"115","Volkswagen","Jetta",1999,"Compact Cars",1.9,"Manual",4,33,44,37.95,0,1,1
+"116","Ford","Bronco 4WD",1989,"Special Purpose Vehicles",5.8,"Automatic",8,10,12,10.9,1,0,0
+"117","Nissan","Xterra 2WD",2008,"Sport Utility Vehicle - 2WD",4,"Manual",6,16,20,17.8,0,0,0
+"118","Mercedes-Benz","C300 4matic Convertible",2018,"Subcompact Cars",2,"Automatic",4,22,29,25.15,1,0,0
+"119","Ford","Ranger Pickup 4WD",1995,"Standard Pickup Trucks",3,"Manual",6,16,22,18.7,0,0,0
+"120","Porsche","Boxster S",2006,"Two Seaters",3.2,"Automatic",6,16,24,19.6,1,0,0
+"121","Audi","R8",2015,"Two Seaters",5.2,"Manual",10,12,19,15.15,0,0,0
+"122","Ford","Explorer 2WD FFV",2002,"Sport Utility Vehicle - 2WD",4,"Automatic",6,10,15,12.25,1,0,0
+"123","Ram","1500 2WD",2017,"Standard Pickup Trucks 2WD",3.6,"Automatic",6,17,17,17,1,0,0
+"124","BMW","M3",2018,"Compact Cars",3,"Manual",6,17,25,20.6,0,0,0
+"125","Ford","Taurus SHO",1995,"Midsize Cars",3.2,"Automatic",6,16,24,19.6,1,1,0
+"126","Chevrolet","Silverado K15 4WD",2014,"Standard Pickup Trucks 4WD",5.3,"Automatic",8,16,22,18.7,1,0,0
+"127","Chrysler","TC By Convertible",1990,"Two Seaters",3,"Automatic",6,15,22,18.15,1,1,0
+"128","Ford","F250 Pickup 2WD",1985,"Standard Pickup Trucks",5,"Automatic",8,13,17,14.8,1,0,0
+"129","Mitsubishi","Montero 4WD",1984,"Special Purpose Vehicle 4WD",2.6,"Automatic",4,15,15,15,1,0,0
+"130","Nissan","Quest",2008,"Minivan - 2WD",3.5,"Automatic",6,16,24,19.6,1,1,0
+"131","Dodge","Magnum",2006,"Sport Utility Vehicle - 2WD",5.7,"Automatic",8,15,23,18.6,1,0,0
+"132","Audi","100 quattro",1992,"Midsize Cars",2.8,"Manual",6,16,21,18.25,0,0,0
+"133","Dodge","Colt",1988,"Subcompact Cars",1.6,"Automatic",4,21,24,22.35,1,1,0
+"134","Plymouth","Voyager/Grand Voyager 2WD",2000,"Minivan - 2WD",3.3,"Automatic",6,16,23,19.15,1,1,0
+"135","GMC","Vandura G15/25 2WD",1985,"Vans",4.3,"Manual",6,16,19,17.35,0,0,0
+"136","Mercedes-Benz","E400 4matic",2016,"Midsize Cars",3,"Automatic",6,20,27,23.15,1,0,0
+"137","Chevrolet","Blazer V1500 4WD",1991,"Special Purpose Vehicles",5.7,"Manual",8,11,13,11.9,0,0,0
+"138","GMC","S15 Cab Chassis 2WD",1986,"Special Purpose Vehicle 2WD",2.8,"Manual",6,13,14,13.45,0,0,0
+"139","Ford","Transit T150 Wagon",2015,"Vans, Passenger Type",3.5,"Automatic",6,14,19,16.25,1,0,0
+"140","Audi","80/90",1989,"Subcompact Cars",2,"Automatic",4,20,24,21.8,1,1,0
+"141","Pontiac","Sunfire",1999,"Subcompact Cars",2.4,"Manual",4,20,30,24.5,0,1,0
+"142","Ford","Thunderbird",1994,"Midsize Cars",3.8,"Automatic",6,16,22,18.7,1,0,0
+"143","Chevrolet","K10 Pickup 4WD",1985,"Standard Pickup Trucks",4.3,"Automatic",6,14,17,15.35,1,0,0
+"144","Dodge","Shadow Convertible",1992,"Subcompact Cars",2.5,"Automatic",4,17,22,19.25,1,1,0
+"145","BMW","328i Sports Wagon",2011,"Small Station Wagons",3,"Manual",6,17,26,21.05,0,0,0
+"146","Chevrolet","Cavalier Wagon",1987,"Small Station Wagons",2.8,"Manual",6,17,25,20.6,0,1,0
+"147","Volvo","S60 FWD",2003,"Compact Cars",2.4,"Automatic",5,19,28,23.05,1,1,0
+"148","GMC","Yukon 1500 2WD",2003,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,13,16,14.35,1,0,0
+"149","Chevrolet","S10 Pickup 2WD FFV",2001,"Small Pickup Trucks 2WD",2.2,"Automatic",4,12,23,16.95,1,0,0
+"150","Mercury","Mystique",1997,"Compact Cars",2.5,"Automatic",6,18,28,22.5,1,1,0
+"151","Daewoo","Nubira",2003,"Compact Cars",2,"Automatic",4,18,25,21.15,1,1,0
+"152","Honda","Odyssey",2012,"Minivan - 2WD",3.5,"Automatic",6,18,27,22.05,1,1,0
+"153","Chevrolet","C1500 Pickup 2WD",1995,"Standard Pickup Trucks",5,"Automatic",8,13,17,14.8,1,0,0
+"154","GMC","Sierra 1500 4WD",1996,"Standard Pickup Trucks",5.7,"Automatic",8,12,16,13.8,1,0,0
+"155","Ford","Escape FWD",2010,"Sport Utility Vehicle - 2WD",2.5,"Automatic",4,21,28,24.15,1,1,0
+"156","BMW","650ci",2007,"Subcompact Cars",4.8,"Automatic",8,15,23,18.6,1,0,0
+"157","Ford","Escort ZX2",2002,"Subcompact Cars",2,"Manual",4,23,31,26.6,0,1,0
+"158","Honda","Civic Hybrid",2004,"Compact Cars",1.3,"Manual",4,37,45,40.6,0,1,0
+"159","GMC","Sierra 1500 4WD",2005,"Standard Pickup Trucks 4WD",5.3,"Automatic",8,13,17,14.8,1,0,0
+"160","Chevrolet","Cavalier",2001,"Compact Cars",2.2,"Automatic",4,20,27,23.15,1,1,0
+"161","Volkswagen","Beetle",2019,"Compact Cars",2,"Automatic",4,26,33,29.15,1,1,0
+"162","Mazda","626",1994,"Midsize Cars",2,"Automatic",4,20,28,23.6,1,1,0
+"163","GMC","R15 Pickup 2WD",1987,"Standard Pickup Trucks",6.2,"Manual",8,18,22,19.8,0,0,1
+"164","Porsche","Panamera S E-Hybrid",2016,"Large Cars",3,"Automatic",6,43,66,53.35,1,0,0
+"165","Lexus","RX 330 4WD",2004,"Sport Utility Vehicle - 4WD",3.3,"Automatic",6,16,22,18.7,1,0,0
+"166","Mercedes-Benz","GLE350 4matic",2018,"Standard Sport Utility Vehicle 4WD",3.5,"Automatic",6,13,22,17.05,1,0,0
+"167","Rolls-Royce","Silver Seraph",2001,"Midsize Cars",5.4,"Automatic",12,11,15,12.8,1,0,0
+"168","GMC","C15 Pickup 2WD",1985,"Standard Pickup Trucks",5,"Automatic",8,12,15,13.35,1,0,0
+"169","Mercury","Milan FWD",2011,"Midsize Cars",2.5,"Automatic",4,23,32,27.05,1,1,0
+"170","Mercedes-Benz","C300 4matic Convertible",2019,"Subcompact Cars",2,"Automatic",4,21,29,24.6,1,0,0
+"171","Maybach","57",2005,"Large Cars",5.5,"Automatic",12,11,16,13.25,1,0,0
+"172","Volvo","740/760",1987,"Midsize Cars",2.3,"Manual",4,20,26,22.7,0,0,0
+"173","Ford","Explorer Sport 4WD",2003,"Sport Utility Vehicle - 4WD",4,"Automatic",6,14,18,15.8,1,0,0
+"174","Toyota","Land Cruiser Wagon 4WD",2019,"Standard Sport Utility Vehicle 4WD",5.7,"Automatic",8,13,18,15.25,1,0,0
+"175","GMC","Terrain FWD",2015,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,15,21,17.7,1,1,0
+"176","GMC","Sierra Classic 1500 2WD",2007,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,14,14,14,1,0,0
+"177","Cadillac","Seville",1988,"Midsize Cars",4.5,"Automatic",8,15,22,18.15,1,1,0
+"178","Chrysler","Aspen 2WD",2008,"Sport Utility Vehicle - 2WD",5.7,"Automatic",8,13,19,15.7,1,0,0
+"179","Chrysler","300",2017,"Large Cars",5.7,"Automatic",8,16,25,20.05,1,0,0
+"180","Dodge","Dakota Pickup 2WD",1998,"Standard Pickup Trucks 2WD",3.9,"Automatic",6,14,19,16.25,1,0,0
+"181","Subaru","Legacy AWD Turbo",1994,"Compact Cars",2.2,"Manual",4,17,23,19.7,0,0,0
+"182","Saturn","Vue AWD",2005,"Sport Utility Vehicle - 4WD",3.5,"Automatic",6,17,23,19.7,1,0,0
+"183","Dodge","Ram 1500 Pickup 2WD",2011,"Standard Pickup Trucks 2WD",3.7,"Automatic",6,14,20,16.7,1,0,0
+"184","Plymouth","Horizon",1990,"Subcompact Cars",2.2,"Manual",4,22,31,26.05,0,1,0
+"185","Audi","80 quattro",1992,"Subcompact Cars",2.3,"Manual",5,16,22,18.7,0,0,0
+"186","Volkswagen","New Beetle",2002,"Subcompact Cars",1.8,"Automatic",4,20,27,23.15,1,1,0
+"187","Chrysler","Aspen 4WD",2009,"Sport Utility Vehicle - 4WD",4.7,"Automatic",8,9,12,10.35,1,0,0
+"188","Ford","Ranger Pickup 4WD",2006,"Standard Pickup Trucks 4WD",4,"Manual",6,14,18,15.8,0,0,0
+"189","Nissan","Truck 2WD",1989,"Small Pickup Trucks",3,"Manual",6,15,22,18.15,0,0,0
+"190","Mercury","Grand Marquis Wagon",1988,"Midsize-Large Station Wagons",5,"Automatic",8,15,22,18.15,1,0,0
+"191","Toyota","Sienna AWD",2013,"Minivan - 4WD",3.5,"Automatic",6,16,23,19.15,1,0,0
+"192","Chevrolet","G10/20 Van 2WD",1984,"Vans, Cargo Type",6.2,"Manual",8,18,22,19.8,0,0,1
+"193","Chevrolet","Van 1500/2500 2WD",1998,"Vans, Cargo Type",4.3,"Automatic",6,13,18,15.25,1,0,0
+"194","Toyota","RAV4 4WD",2012,"Sport Utility Vehicle - 4WD",3.5,"Automatic",6,19,26,22.15,1,0,0
+"195","MINI","Cooper S Countryman",2020,"Midsize Cars",2,"Automatic",4,24,33,28.05,1,1,0
+"196","Volkswagen","Jetta SportWagen",2009,"Small Station Wagons",2.5,"Manual",5,21,30,25.05,0,1,0
+"197","BMW","325ci",2004,"Subcompact Cars",2.5,"Automatic",6,17,25,20.6,1,0,0
+"198","Hyundai","Veracruz 2WD",2012,"Sport Utility Vehicle - 2WD",3.8,"Automatic",6,17,22,19.25,1,1,0
+"199","GMC","Sierra 1500 4WD",1996,"Standard Pickup Trucks",4.3,"Automatic",6,15,19,16.8,1,0,0
+"200","Toyota","MR2",1986,"Two Seaters",1.6,"Automatic",4,22,29,25.15,1,0,0
+"201","Volvo","S60 AWD PHEV",2020,"Compact Cars",2,"Automatic",4,28,68,46,1,0,0
+"202","Porsche","911 Carrera S",2013,"Minicompact Cars",3.8,"Automatic",6,19,27,22.6,1,0,0
+"203","Toyota","4Runner 4WD",1986,"Special Purpose Vehicles",2.4,"Automatic",4,17,20,18.35,1,0,0
+"204","Dodge","Ram 1500 Pickup 2WD",2007,"Standard Pickup Trucks 2WD",5.7,"Automatic",8,13,18,15.25,1,0,0
+"205","Nissan","Armada 4WD",2015,"Standard Sport Utility Vehicle 4WD",5.6,"Automatic",8,9,13,10.8,1,0,0
+"206","Hyundai","Genesis",2009,"Large Cars",4.6,"Automatic",8,17,25,20.6,1,0,0
+"207","Ford","Expedition 2WD",2006,"Sport Utility Vehicle - 2WD",5.4,"Automatic",8,12,17,14.25,1,0,0
+"208","Chrysler","Town and Country",2009,"Minivan - 2WD",4,"Automatic",6,17,25,20.6,1,1,0
+"209","GMC","Savana 2500 2WD (Passenger)",2015,"Vans, Passenger Type",4.8,"Automatic",8,11,17,13.7,1,0,0
+"210","Ford","Transit Connect Van FFV",2019,"Special Purpose Vehicle 2WD",2,"Automatic",4,24,27,25.35,1,1,0
+"211","Ford","Ranger Pickup 4WD",1994,"Standard Pickup Trucks",3,"Automatic",6,15,20,17.25,1,0,0
+"212","Maserati","Spyder",1989,"Two Seaters",2.8,"Automatic",6,14,17,15.35,1,0,0
+"213","Porsche","911 Turbo Cabriolet",2012,"Minicompact Cars",3.8,"Manual",6,16,24,19.6,0,0,0
+"214","Mazda","3 5-Door",2018,"Midsize Cars",2.5,"Manual",4,25,33,28.6,0,1,0
+"215","Mercedes-Benz","CLS450",2019,"Compact Cars",3,"Automatic",6,24,31,27.15,1,0,0
+"216","Porsche","911 Turbo Coupe",2012,"Minicompact Cars",3.8,"Manual",6,16,24,19.6,0,0,0
+"217","Ford","Tempo",1986,"Compact Cars",2.3,"Manual",4,20,29,24.05,0,1,0
+"218","Chrysler","Town and Country",2015,"Minivan - 2WD",3.6,"Automatic",6,17,25,20.6,1,1,0
+"219","Isuzu","Pickup 2WD",1992,"Small Pickup Trucks",2.3,"Manual",4,19,22,20.35,0,0,0
+"220","Nissan","Frontier 4WD",2012,"Small Pickup Trucks 4WD",4,"Automatic",6,14,19,16.25,1,0,0
+"221","Dodge","Daytona",1991,"Subcompact Cars",3,"Automatic",6,18,24,20.7,1,1,0
+"222","Cadillac","Limousine",2008,"Large Cars",4.6,"Automatic",8,13,18,15.25,1,1,0
+"223","Chrysler","PT Cruiser",2009,"Sport Utility Vehicle - 2WD",2.4,"Automatic",4,18,24,20.7,1,1,0
+"224","Chevrolet","S10 Blazer 2WD",1984,"Special Purpose Vehicle 2WD",2,"Manual",4,20,26,22.7,0,0,0
+"225","Mitsubishi","Lancer",2009,"Compact Cars",2,"Automatic",4,17,25,20.6,1,0,0
+"226","Mercedes-Benz","AMG C43 4matic Coupe",2018,"Subcompact Cars",3,"Automatic",6,20,27,23.15,1,0,0
+"227","Mitsubishi","Galant",1993,"Compact Cars",2,"Manual",4,18,24,20.7,0,1,0
+"228","Toyota","Tercel Wagon 2WD",1986,"Small Station Wagons",1.5,"Automatic",4,24,28,25.8,1,1,0
+"229","Ford","Explorer 2WD",1996,"Special Purpose Vehicles",4,"Automatic",6,14,20,16.7,1,0,0
+"230","Dodge","Dart",2015,"Midsize Cars",2,"Automatic",4,17,33,24.2,1,1,0
+"231","Lexus","LX 570",2016,"Standard Sport Utility Vehicle 4WD",5.7,"Automatic",8,13,18,15.25,1,0,0
+"232","Chevrolet","S10 Blazer 2WD",1992,"Special Purpose Vehicles",4.3,"Manual",6,15,20,17.25,0,0,0
+"233","Acura","2.3CL/3.0CL",1998,"Subcompact Cars",2.3,"Automatic",4,19,27,22.6,1,1,0
+"234","Chevrolet","Colorado Cab Chassis inc 2WD",2012,"Small Pickup Trucks 2WD",3.7,"Automatic",5,15,20,17.25,1,0,0
+"235","Cadillac","Limousine",2010,"Large Cars",4.6,"Automatic",8,12,18,14.7,1,1,0
+"236","Chevrolet","Sport Van G30  2WD",1994,"Vans",5.7,"Automatic",8,11,16,13.25,1,0,0
+"237","Chevrolet","Spark ACTIV",2019,"Subcompact Cars",1.4,"Automatic",4,30,37,33.15,1,1,0
+"238","GMC","C25 Pickup 2WD",1988,"Standard Pickup Trucks",5.7,"Manual",8,12,17,14.25,0,0,0
+"239","Toyota","Camry XSE",2019,"Midsize Cars",3.5,"Automatic",6,22,32,26.5,1,1,0
+"240","Lincoln","Continental",1985,"Midsize Cars",5,"Automatic",8,14,22,17.6,1,0,0
+"241","Dodge","D100/D150 Pickup 2WD",1988,"Standard Pickup Trucks",3.9,"Manual",6,12,17,14.25,0,0,0
+"242","Jaguar","F-Type R AWD Coupe",2019,"Two Seaters",5,"Automatic",8,15,23,18.6,1,0,0
+"243","Porsche","Panamera 4 Executive",2019,"Large Cars",3,"Automatic",6,19,26,22.15,1,0,0
+"244","Ford","Explorer Sport Trac 2WD FFV",2004,"Standard Pickup Trucks 2WD",4,"Automatic",6,10,20,14.5,1,0,0
+"245","Jeep","Cherokee Trailhawk 4WD",2018,"Small Sport Utility Vehicle 4WD",3.2,"Automatic",6,18,24,20.7,1,0,0
+"246","BMW","535i xDrive Gran Turismo",2013,"Large Cars",3,"Automatic",6,18,26,21.6,1,0,0
+"247","Toyota","Tacoma 4WD",1996,"Standard Pickup Trucks",2.7,"Automatic",4,16,19,17.35,1,0,0
+"248","Dodge","Charger SRT8",2016,"Large Cars",6.4,"Automatic",8,15,25,19.5,1,0,0
+"249","Mercedes-Benz","500SE",1985,"Midsize Cars",5,"Automatic",8,13,15,13.9,1,0,0
+"250","Ford","F150 Pickup 2WD",1984,"Standard Pickup Trucks 2WD",5.8,"Manual",8,11,15,12.8,0,0,0
+"251","Chevrolet","Cavalier Convertible",1987,"Subcompact Cars",2.8,"Manual",6,17,25,20.6,0,1,0
+"252","Jeep","Comanche Pickup 4WD",1989,"Standard Pickup Trucks",2.5,"Manual",4,18,22,19.8,0,0,0
+"253","Chevrolet","Express Cargo (dedicated CNG)",2004,"Vans, Cargo Type",6,"Automatic",8,11,15,12.8,1,0,0
+"254","GMC","Envoy XL 2WD",2002,"Sport Utility Vehicle - 2WD",4.2,"Automatic",6,14,19,16.25,1,0,0
+"255","Toyota","Truck 2WD",1985,"Small Pickup Trucks",2.4,"Manual",4,20,24,21.8,0,0,0
+"256","Jaguar","XK",2010,"Minicompact Cars",5,"Automatic",8,16,24,19.6,1,0,0
+"257","Chevrolet","Silverado C15 Cab Chassis 2WD",2015,"Special Purpose Vehicle 2WD",5.3,"Automatic",8,11,20,15.05,1,0,0
+"258","Pontiac","G3 (5-Door)",2010,"Compact Cars",1.6,"Manual",4,27,35,30.6,0,1,0
+"259","Lamborghini","Huracan",2017,"Two Seaters",5.2,"Automatic",10,14,21,17.15,1,0,0
+"260","Ford","Ranger Pickup 2WD",2009,"Small Pickup Trucks 2WD",2.3,"Automatic",4,19,24,21.25,1,0,0
+"261","Merkur","XR4Ti",1989,"Compact Cars",2.3,"Manual",4,17,23,19.7,0,0,0
+"262","MINI","Cooper S",2008,"Minicompact Cars",1.6,"Manual",4,26,34,29.6,0,1,0
+"263","GMC","Sierra 2WD",2020,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,15,21,17.7,1,0,0
+"264","Ford","Explorer 4WD",2008,"Sport Utility Vehicle - 4WD",4,"Automatic",6,13,19,15.7,1,0,0
+"265","Isuzu","Rodeo 2WD",2004,"Sport Utility Vehicle - 2WD",3.2,"Automatic",6,16,21,18.25,1,0,0
+"266","Saturn","Aura Hybrid",2009,"Midsize Cars",2.4,"Automatic",4,26,34,29.6,1,1,0
+"267","Toyota","Tercel",1998,"Subcompact Cars",1.5,"Automatic",4,25,30,27.25,1,1,0
+"268","Volvo","V50 FWD",2007,"Small Station Wagons",2.4,"Manual",5,19,27,22.6,0,1,0
+"269","Mazda","B3000 FFV 2WD",2000,"Standard Pickup Trucks 2WD",3,"Manual",6,12,21,16.05,0,0,0
+"270","GMC","Yukon C1500 2WD",2020,"Standard Sport Utility Vehicle 2WD",5.3,"Automatic",8,15,22,18.15,1,0,0
+"271","Pagani","Huayra Coupe",2014,"Two Seaters",6,"Automatic",12,11,17,13.7,1,0,0
+"272","Toyota","Tacoma 2WD",2005,"Standard Pickup Trucks 2WD",2.7,"Manual",4,18,25,21.15,0,0,0
+"273","Mercedes-Benz","CL600",2003,"Compact Cars",5.5,"Automatic",12,12,17,14.25,1,0,0
+"274","Subaru","Impreza 5-Door",2018,"Small Station Wagons",2,"Manual",4,24,31,27.15,0,0,0
+"275","Dodge","B350 Van 2WD",1990,"Vans",5.2,"Automatic",8,11,14,12.35,1,0,0
+"276","Jaguar","XJ6",1986,"Subcompact Cars",4.2,"Automatic",6,14,17,15.35,1,0,0
+"277","Dodge","Caravan/Grand Caravan 2WD",1993,"Special Purpose Vehicles",3,"Automatic",6,17,22,19.25,1,1,0
+"278","GMC","Canyon Crew Cab 2WD",2010,"Small Pickup Trucks 2WD",2.9,"Automatic",4,18,25,21.15,1,0,0
+"279","Suzuki","Swift",1994,"Subcompact Cars",1.3,"Manual",4,31,39,34.6,0,1,0
+"280","Volkswagen","GTI",2004,"Compact Cars",1.8,"Manual",4,21,28,24.15,0,1,0
+"281","Chevrolet","Impala",2009,"Large Cars",3.9,"Automatic",6,17,27,21.5,1,1,0
+"282","Porsche","911 Carrera 4 Cabriolet",2002,"Minicompact Cars",3.6,"Manual",6,15,22,18.15,0,0,0
+"283","Kia","Soul",2013,"Small Station Wagons",2,"Manual",4,24,29,26.25,0,1,0
+"284","Nissan","Stanza",1985,"Compact Cars",2,"Manual",4,23,30,26.15,0,1,0
+"285","Dodge","W250 Pickup 4WD",1987,"Standard Pickup Trucks",5.2,"Manual",8,10,13,11.35,0,0,0
+"286","Jeep","Cherokee 2WD",1997,"Special Purpose Vehicles",2.5,"Manual",4,18,23,20.25,0,0,0
+"287","Dodge","Ram Van 1500 2WD",2001,"Vans, Cargo Type",5.9,"Automatic",8,11,16,13.25,1,0,0
+"288","GMC","Sonoma 4WD",2003,"Standard Pickup Trucks 4WD",4.3,"Automatic",6,14,18,15.8,1,0,0
+"289","Dodge","Journey",2019,"Small Sport Utility Vehicle 2WD",3.6,"Automatic",6,12,18,14.7,1,1,0
+"290","Mercury","Mystique",1996,"Compact Cars",2,"Manual",4,21,31,25.5,0,1,0
+"291","BMW","M3",2016,"Compact Cars",3,"Manual",6,17,26,21.05,0,0,0
+"292","Ford","E150 Club Wagon",2000,"Vans, Passenger Type",5.4,"Automatic",8,12,16,13.8,1,0,0
+"293","Mitsubishi","Mirage",1999,"Subcompact Cars",1.8,"Automatic",4,23,30,26.15,1,1,0
+"294","Chevrolet","Colorado Cab Chassis inc 4WD",2007,"Standard Pickup Trucks 4WD",3.7,"Automatic",5,14,18,15.8,1,0,0
+"295","GMC","Vandura G15/25 2WD",1984,"Vans, Cargo Type",6.2,"Manual",8,18,22,19.8,0,0,1
+"296","Mitsubishi","Eclipse",1991,"Subcompact Cars",1.8,"Automatic",4,21,28,24.15,1,1,0
+"297","Nissan","Pathfinder 4WD",2002,"Sport Utility Vehicle - 4WD",3.5,"Manual",6,15,17,15.9,0,0,0
+"298","Chevrolet","Aveo",2010,"Compact Cars",1.6,"Automatic",4,25,34,29.05,1,1,0
+"299","Ford","Escort",1991,"Compact Cars",1.8,"Automatic",4,21,27,23.7,1,1,0
+"300","Ford","Edge AWD",2017,"Small Sport Utility Vehicle 4WD",3.5,"Automatic",6,17,24,20.15,1,0,0
+"301","BMW","550i xDrive",2011,"Midsize Cars",4.4,"Automatic",8,16,24,19.6,1,0,0
+"302","Honda","Accord",2010,"Large Cars",2.4,"Manual",4,22,31,26.05,0,1,0
+"303","Volvo","S60 FWD",2004,"Compact Cars",2.3,"Automatic",5,18,26,21.6,1,1,0
+"304","Kia","Sorento 2WD",2006,"Sport Utility Vehicle - 2WD",3.5,"Manual",6,15,19,16.8,0,0,0
+"305","Jaguar","F-Type S Coupe",2016,"Two Seaters",3,"Automatic",6,19,27,22.6,1,0,0
+"306","Chevrolet","Silverado C15 Cab Chassis 2WD",2015,"Special Purpose Vehicle 2WD",5.3,"Automatic",8,11,15,12.8,1,0,0
+"307","Plymouth","Colt",1993,"Subcompact Cars",1.5,"Automatic",4,25,30,27.25,1,1,0
+"308","Nissan","Rogue FWD",2020,"Small Sport Utility Vehicle 2WD",2.5,"Automatic",4,26,33,29.15,1,1,0
+"309","Chevrolet","G30 Van 2WD",1988,"Vans",4.3,"Automatic",6,15,19,16.8,1,0,0
+"310","Ford","Focus FWD FFV",2012,"Compact Cars",2,"Manual",4,26,35,30.05,0,1,0
+"311","Isuzu","Rodeo 2WD",1992,"Special Purpose Vehicles",2.6,"Manual",4,16,20,17.8,0,0,0
+"312","Hyundai","Genesis Coupe",2012,"Subcompact Cars",3.8,"Manual",6,17,26,21.05,0,0,0
+"313","Dodge","Colt Vista",1991,"Small Station Wagons",2,"Automatic",4,19,22,20.35,1,1,0
+"314","Lotus","Esprit Turbo",1995,"Two Seaters",2.2,"Manual",4,15,25,19.5,0,0,0
+"315","Mercury","Milan S FWD",2011,"Midsize Cars",2.5,"Manual",4,22,31,26.05,0,1,0
+"316","Ford","F150 Pickup 4WD FFV",2007,"Standard Pickup Trucks 4WD",5.4,"Automatic",8,12,16,13.8,1,0,0
+"317","Acura","Integra",1996,"Subcompact Cars",1.8,"Manual",4,22,29,25.15,0,1,0
+"318","Mercedes-Benz","CLK55 AMG (Cabriolet)",2004,"Subcompact Cars",5.4,"Automatic",8,14,20,16.7,1,0,0
+"319","Mercedes-Benz","ML63 AMG",2011,"Sport Utility Vehicle - 4WD",6.3,"Automatic",8,11,15,12.8,1,0,0
+"320","Suzuki","SX4 Sport",2010,"Compact Cars",2,"Manual",4,23,32,27.05,0,1,0
+"321","Ford","Escape AWD",2013,"Small Sport Utility Vehicle 4WD",2,"Automatic",4,21,28,24.15,1,0,0
+"322","Porsche","Boxster",2009,"Two Seaters",2.9,"Automatic",6,20,29,24.05,1,0,0
+"323","Subaru","Brat 4WD",1985,"Special Purpose Vehicles",1.8,"Automatic",4,18,22,19.8,1,0,0
+"324","Dodge","B150/B250 Van 2WD",1984,"Vans, Cargo Type",3.7,"Manual",6,11,16,13.25,0,0,0
+"325","Cadillac","Escalade AWD",2006,"Sport Utility Vehicle - 4WD",6,"Automatic",8,12,16,13.8,1,0,0
+"326","BMW","M6 Convertible",2008,"Subcompact Cars",5,"Manual",10,11,17,13.7,0,0,0
+"327","Volkswagen","Passat Wagon",1998,"Midsize Station Wagons",1.9,"Manual",4,32,45,37.85,0,1,1
+"328","Toyota","Camry Solara",2001,"Compact Cars",3,"Manual",6,17,25,20.6,0,1,0
+"329","Mazda","929",1992,"Midsize Cars",3,"Automatic",6,17,22,19.25,1,0,0
+"330","GMC","Sierra 1500 4WD",2001,"Standard Pickup Trucks 4WD",5.3,"Automatic",8,13,16,14.35,1,0,0
+"331","Toyota","1-Ton Truck 2WD",1992,"Standard Pickup Trucks",3,"Automatic",6,16,21,18.25,1,0,0
+"332","Pontiac","Firebird/Formula",1994,"Subcompact Cars",5.7,"Manual",8,15,24,19.05,0,0,0
+"333","Isuzu","Pickup 4WD",1984,"Small Pickup Trucks 4WD",2.2,"Manual",4,24,24,24,0,0,1
+"334","Chevrolet","Malibu",2010,"Midsize Cars",2.4,"Automatic",4,15,33,23.1,1,1,0
+"335","Chevrolet","Cavalier",1997,"Compact Cars",2.4,"Automatic",4,19,29,23.5,1,1,0
+"336","Jaguar","F-Type Convertible",2017,"Two Seaters",3,"Automatic",6,20,28,23.6,1,0,0
+"337","Oldsmobile","Achieva",1997,"Compact Cars",2.4,"Manual",4,20,30,24.5,0,1,0
+"338","Chevrolet","K2500 Pickup 4WD",1991,"Standard Pickup Trucks",5.7,"Manual",8,11,15,12.8,0,0,0
+"339","Nissan","Xterra V6 4WD",2002,"Sport Utility Vehicle - 4WD",3.3,"Automatic",6,14,17,15.35,1,0,0
+"340","Ford","Focus FWD FFV",2012,"Compact Cars",2,"Manual",4,26,26,26,0,1,0
+"341","Jeep","Cherokee/Wagoneer 4WD",1987,"Special Purpose Vehicles",4,"Automatic",6,15,20,17.25,1,0,0
+"342","Dodge","D100/D150 Pickup 2WD",1993,"Standard Pickup Trucks",3.9,"Manual",6,14,17,15.35,0,0,0
+"343","Ford","Fusion FWD FFV",2011,"Midsize Cars",3,"Automatic",6,14,20,16.7,1,1,0
+"344","BMW","328i xDrive Sports Wagon",2015,"Small Station Wagons",2,"Automatic",4,22,32,26.5,1,0,0
+"345","Toyota","Celica",1991,"Subcompact Cars",2,"Manual",4,17,22,19.25,0,0,0
+"346","Pontiac","Parisienne",1985,"Large Cars",4.3,"Automatic",6,15,23,18.6,1,0,0
+"347","Eagle","Summit Wagon",1992,"Midsize-Large Station Wagons",2.4,"Automatic",4,18,23,20.25,1,1,0
+"348","Audi","TT Coupe quattro",2006,"Minicompact Cars",1.8,"Manual",4,18,26,21.6,0,0,0
+"349","Pontiac","Grand Am",1988,"Compact Cars",2.3,"Manual",4,22,33,26.95,0,1,0
+"350","BMW","Z3 Roadster",2002,"Two Seaters",3,"Manual",6,19,26,22.15,0,0,0
+"351","Chevrolet","Silverado 1500 4WD",2002,"Standard Pickup Trucks 4WD",4.3,"Automatic",6,13,17,14.8,1,0,0
+"352","Buick","Verano",2013,"Compact Cars",2.4,"Automatic",4,21,22,21.45,1,1,0
+"353","Dodge","Charger",2013,"Large Cars",3.6,"Automatic",6,18,18,18,1,0,0
+"354","Dodge","Daytona",1990,"Subcompact Cars",3,"Automatic",6,17,24,20.15,1,1,0
+"355","MINI","Cooper Paceman",2015,"Compact Cars",1.6,"Manual",4,27,33,29.7,0,1,0
+"356","Eagle","Talon",1996,"Subcompact Cars",2,"Manual",4,19,29,23.5,0,1,0
+"357","BMW","335i",2011,"Compact Cars",3,"Automatic",6,19,28,23.05,1,0,0
+"358","Toyota","Celica",1994,"Subcompact Cars",1.8,"Automatic",4,23,29,25.7,1,1,0
+"359","Volkswagen","Jetta SportWagen",2010,"Small Station Wagons",2,"Automatic",4,29,37,32.6,1,1,1
+"360","Porsche","911 Carrera 4 GTS Cabriolet",2015,"Minicompact Cars",3.8,"Automatic",6,18,25,21.15,1,0,0
+"361","Suzuki","Sidekick Sport 4WD",1998,"Special Purpose Vehicle 4WD",1.8,"Automatic",4,19,22,20.35,1,0,0
+"362","Volvo","850 Wagon",1995,"Midsize-Large Station Wagons",2.4,"Manual",5,18,26,21.6,0,1,0
+"363","Toyota","Corolla LE Eco",2018,"Midsize Cars",1.8,"Automatic",4,29,38,33.05,1,1,0
+"364","BMW","M6 Convertible",2015,"Subcompact Cars",4.4,"Automatic",8,14,20,16.7,1,0,0
+"365","Jeep","Cherokee/Wagoneer 2WD",1986,"Special Purpose Vehicle 2WD",2.1,"Manual",4,24,29,26.25,0,0,1
+"366","Porsche","Panamera 4 e-Hybrid ST",2019,"Large Cars",2.9,"Automatic",6,48,54,50.7,1,0,0
+"367","Ford","Bronco II 4WD",1987,"Special Purpose Vehicles",2.9,"Manual",6,16,20,17.8,0,0,0
+"368","GMC","Sierra 1500 2WD",2003,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,13,18,15.25,1,0,0
+"369","Chevrolet","Silverado K15 4WD",2013,"Standard Pickup Trucks 4WD",6.2,"Automatic",8,12,13,12.45,1,0,0
+"370","Acura","RLX Hybrid",2017,"Midsize Cars",3.5,"Automatic",6,29,30,29.45,1,0,0
+"371","Toyota","Camry Hybrid XLE/SE",2016,"Midsize Cars",2.5,"Automatic",4,40,37,38.65,1,1,0
+"372","Mitsubishi","Mirage",2001,"Compact Cars",1.8,"Manual",4,24,33,28.05,0,1,0
+"373","Dodge","Charger",2010,"Large Cars",6.1,"Automatic",8,13,19,15.7,1,0,0
+"374","Chevrolet","Equinox FWD",2014,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,22,31,26.05,1,1,0
+"375","Saab","9-5",2003,"Midsize Cars",2.3,"Automatic",4,18,27,22.05,1,1,0
+"376","BMW","328i xDrive",2009,"Compact Cars",3,"Automatic",6,17,25,20.6,1,0,0
+"377","Nissan","Frontier 2WD FFV",2019,"Small Pickup Trucks 2WD",4,"Automatic",6,16,22,18.7,1,0,0
+"378","Chevrolet","Tahoe 1500 4WD",2001,"Sport Utility Vehicle - 4WD",4.8,"Automatic",8,13,16,14.35,1,0,0
+"379","Ford","Edge AWD",2013,"Small Sport Utility Vehicle 4WD",3.7,"Automatic",6,17,23,19.7,1,0,0
+"380","Toyota","Tacoma 2WD",1996,"Small Pickup Trucks",3.4,"Manual",6,17,21,18.8,0,0,0
+"381","BMW","740il",1993,"Midsize Cars",4,"Automatic",8,14,20,16.7,1,0,0
+"382","Dodge","Intrepid",2003,"Large Cars",3.5,"Automatic",6,16,25,20.05,1,1,0
+"383","Lexus","SC 430",2004,"Minicompact Cars",4.3,"Automatic",8,16,22,18.7,1,0,0
+"384","Mazda","B2200/B2600i",1993,"Standard Pickup Trucks",2.2,"Manual",4,21,24,22.35,0,0,0
+"385","Toyota","Camry",1991,"Compact Cars",2,"Manual",4,23,31,26.6,0,1,0
+"386","Audi","A5 Cabriolet",2014,"Subcompact Cars",2,"Automatic",4,23,31,26.6,1,1,0
+"387","Dodge","Dart Aero",2014,"Midsize Cars",1.4,"Manual",4,28,39,32.95,0,1,0
+"388","BMW","335xi",2008,"Compact Cars",3,"Manual",6,16,25,20.05,0,0,0
+"389","Dodge","Journey FWD",2011,"Sport Utility Vehicle - 2WD",3.6,"Automatic",6,17,25,20.6,1,1,0
+"390","Acura","RSX",2003,"Subcompact Cars",2,"Manual",4,24,30,26.7,0,1,0
+"391","Chevrolet","R20 (C20) Pickup 2WD",1987,"Standard Pickup Trucks",5,"Automatic",8,13,15,13.9,1,0,0
+"392","Jeep","Cherokee FWD",2018,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,21,22,21.45,1,1,0
+"393","Saab","9-5 Wagon",1999,"Midsize Station Wagons",2.3,"Automatic",4,17,26,21.05,1,1,0
+"394","Jaguar","XK Convertible",2008,"Minicompact Cars",4.2,"Automatic",8,16,25,20.05,1,0,0
+"395","Volkswagen","Golf/GTI",1998,"Compact Cars",2,"Manual",4,21,28,24.15,0,1,0
+"396","Mazda","626/MX-6",1990,"Midsize Cars",2.2,"Manual",4,21,28,24.15,0,1,0
+"397","Porsche","911 Carrera S Cabriolet",2012,"Minicompact Cars",3.8,"Automatic",6,19,26,22.15,1,0,0
+"398","Nissan","Murano AWD",2010,"Sport Utility Vehicle - 4WD",3.5,"Automatic",6,18,23,20.25,1,0,0
+"399","BMW","535xi",2008,"Midsize Cars",3,"Automatic",6,17,25,20.6,1,0,0
+"400","Jeep","Commander 4WD",2007,"Sport Utility Vehicle - 4WD",5.7,"Automatic",8,13,17,14.8,1,0,0
+"401","Nissan","Pathfinder 2WD",1993,"Special Purpose Vehicles",3,"Manual",6,14,17,15.35,0,0,0
+"402","Nissan","Truck 2WD",1996,"Small Pickup Trucks",2.4,"Manual",4,19,24,21.25,0,0,0
+"403","Toyota","RAV4 2WD",2011,"Sport Utility Vehicle - 2WD",2.5,"Automatic",4,21,28,24.15,1,1,0
+"404","Volvo","240",1992,"Compact Cars",2.3,"Manual",4,19,26,22.15,0,0,0
+"405","Nissan","Pulsar NX",1988,"Subcompact Cars",1.6,"Manual",4,23,31,26.6,0,1,0
+"406","Chevrolet","Caprice",1992,"Large Cars",5,"Automatic",8,15,24,19.05,1,0,0
+"407","Toyota","Venza",2010,"Sport Utility Vehicle - 2WD",3.5,"Automatic",6,19,26,22.15,1,1,0
+"408","Volkswagen","Beetle Convertible",2015,"Subcompact Cars",2,"Automatic",4,23,29,25.7,1,1,0
+"409","Jeep","Wrangler Unlimited 4WD",2020,"Small Sport Utility Vehicle 4WD",2,"Automatic",4,21,22,21.45,1,0,0
+"410","Jeep","Cherokee 2WD",1995,"Special Purpose Vehicles",4,"Manual",6,15,20,17.25,0,0,0
+"411","BMW","Z4 sDrive35i",2015,"Two Seaters",3,"Automatic",6,17,23,19.7,1,0,0
+"412","BMW","540i",2003,"Compact Cars",4.4,"Automatic",8,15,19,16.8,1,0,0
+"413","Honda","Civic",1999,"Subcompact Cars",1.6,"Manual",4,27,34,30.15,0,1,0
+"414","Kia","Rio",2009,"Compact Cars",1.6,"Automatic",4,26,35,30.05,1,1,0
+"415","Volkswagen","Jetta",2015,"Compact Cars",2,"Automatic",4,24,32,27.6,1,1,0
+"416","GMC","Sierra 1500 4WD",1990,"Standard Pickup Trucks",4.3,"Automatic",6,14,16,14.9,1,0,0
+"417","Chevrolet","Coachbuilder Wagon",1994,"Special Purpose Vehicles",5.7,"Automatic",8,15,23,18.6,1,0,0
+"418","Federal Coach","Windsor",1995,"Large Cars",5.7,"Automatic",8,13,17,14.8,1,0,0
+"419","Plymouth","Conquest",1985,"Subcompact Cars",2.6,"Automatic",4,17,22,19.25,1,0,0
+"420","Lincoln","Navigator 2WD FFV",2013,"Standard Sport Utility Vehicle 2WD",5.4,"Automatic",8,14,15,14.45,1,0,0
+"421","Toyota","Truck 2WD",1984,"Standard Pickup Trucks 2WD",2.4,"Manual",4,22,26,23.8,0,0,0
+"422","Kia","Sportage 4WD",2002,"Sport Utility Vehicle - 4WD",2,"Manual",4,17,20,18.35,0,0,0
+"423","Honda","Civic",2005,"Compact Cars",1.7,"Automatic",4,26,35,30.05,1,1,0
+"424","Mercedes-Benz","SL63 AMG",2012,"Two Seaters",6.2,"Automatic",8,12,19,15.15,1,0,0
+"425","Ford","F150 Pickup 2WD FFV",2016,"Standard Pickup Trucks 2WD",5,"Automatic",8,15,22,18.15,1,0,0
+"426","GMC","Jimmy 4WD",1997,"Special Purpose Vehicles",4.3,"Automatic",6,15,20,17.25,1,0,0
+"427","Chevrolet","T10 (S10) Blazer 4WD",1988,"Special Purpose Vehicles",4.3,"Automatic",6,15,20,17.25,1,0,0
+"428","Chevrolet","Silverado Classic 1500 4WD",2007,"Standard Pickup Trucks 4WD",4.3,"Manual",6,14,19,16.25,0,0,0
+"429","BMW","Alpina B7 SWB xDrive",2013,"Large Cars",4.4,"Automatic",8,16,24,19.6,1,0,0
+"430","Audi","5000S Wagon",1988,"Midsize-Large Station Wagons",2.3,"Manual",5,16,22,18.7,0,1,0
+"431","Porsche","911 Carrera 4/2",1998,"Minicompact Cars",3.6,"Automatic",6,15,22,18.15,1,0,0
+"432","Suzuki","Swift",2001,"Subcompact Cars",1.3,"Automatic",4,26,31,28.25,1,1,0
+"433","Nissan","350z",2007,"Two Seaters",3.5,"Automatic",6,17,24,20.15,1,0,0
+"434","Ferrari","California T",2017,"Minicompact Cars",3.9,"Automatic",8,16,23,19.15,1,0,0
+"435","BMW","550i Gran Turismo",2015,"Large Cars",4.4,"Automatic",8,16,24,19.6,1,0,0
+"436","Mercedes-Benz","C300 4matic",2014,"Compact Cars",3.5,"Automatic",6,19,26,22.15,1,0,0
+"437","Mazda","B2300/B3000/B4000 Pickup 4WD",1995,"Standard Pickup Trucks",2.3,"Manual",4,19,24,21.25,0,0,0
+"438","Chevrolet","Tahoe 1500 2WD",2008,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,14,15,14.45,1,0,0
+"439","Toyota","Truck 2WD",1985,"Small Pickup Trucks",2.4,"Manual",4,19,24,21.25,0,0,0
+"440","Nissan","300ZX",1986,"Two Seaters",3,"Automatic",6,15,23,18.6,1,0,0
+"441","Lincoln","LS",2002,"Midsize Cars",3,"Automatic",6,16,23,19.15,1,0,0
+"442","Mercury","Grand Marquis",1985,"Large Cars",5,"Automatic",8,14,22,17.6,1,0,0
+"443","GMC","K15 Pickup 4WD",1988,"Standard Pickup Trucks",5.7,"Manual",8,12,14,12.9,0,0,0
+"444","Audi","A5 Cabriolet quattro",2013,"Subcompact Cars",2,"Automatic",4,20,20,20,1,0,0
+"445","Toyota","Tacoma 2WD",1998,"Small Pickup Trucks 2WD",3.4,"Automatic",6,17,22,19.25,1,0,0
+"446","Ford","F150 Dual-fuel 4WD (CNG)",2003,"Standard Pickup Trucks 4WD",5.4,"Automatic",8,10,14,11.8,1,0,0
+"447","Chevrolet","Blazer V1500 4WD",1989,"Special Purpose Vehicles",5.7,"Manual",8,12,14,12.9,0,0,0
+"448","Mercury","Mountaineer 2WD",2006,"Sport Utility Vehicle - 2WD",4,"Automatic",6,13,19,15.7,1,0,0
+"449","Dodge","Charger",1985,"Subcompact Cars",2.2,"Manual",4,22,33,26.95,0,1,0
+"450","Ford","Explorer 2WD",2000,"Sport Utility Vehicle - 2WD",4,"Automatic",6,10,12,10.9,1,0,0
+"451","Ford","E350 Van",2014,"Vans, Cargo Type",6.8,"Automatic",10,10,14,11.8,1,0,0
+"452","Ford","Contour",1995,"Compact Cars",2.5,"Manual",6,18,26,21.6,0,1,0
+"453","Nissan","Xterra 2WD",2000,"Sport Utility Vehicle - 2WD",2.4,"Manual",4,17,22,19.25,0,0,0
+"454","Toyota","Celica",1992,"Subcompact Cars",1.6,"Manual",4,22,29,25.15,0,1,0
+"455","Toyota","Tacoma 4WD",2003,"Standard Pickup Trucks 4WD",2.7,"Manual",4,16,20,17.8,0,0,0
+"456","Chevrolet","Silverado 1500 4WD",1999,"Standard Pickup Trucks 4WD",4.3,"Automatic",6,14,19,16.25,1,0,0
+"457","GMC","Yukon K1500 4WD",2018,"Standard Sport Utility Vehicle 4WD",5.3,"Automatic",8,11,22,15.95,1,0,0
+"458","Plymouth","Neon",1999,"Compact Cars",2,"Manual",4,24,36,29.4,0,1,0
+"459","Nissan","Xterra V6 2WD",2000,"Sport Utility Vehicle - 2WD",3.3,"Manual",6,15,18,16.35,0,0,0
+"460","Pontiac","Grand Prix",2007,"Midsize Cars",3.8,"Automatic",6,17,26,21.05,1,1,0
+"461","Toyota","Camry XLE/XSE",2020,"Midsize Cars",2.5,"Automatic",4,27,38,31.95,1,1,0
+"462","BMW","335d",2010,"Compact Cars",3,"Automatic",6,23,36,28.85,1,0,1
+"463","Bentley","Continental Supersports",2012,"Two Seaters",6,"Automatic",12,8,19,12.95,1,0,0
+"464","GMC","Sierra 1500 4WD",1998,"Standard Pickup Trucks 4WD",5.7,"Manual",8,11,16,13.25,0,0,0
+"465","BMW","i3 (94Ah) with Range Extender",2018,"Subcompact Cars",0.6,"Automatic",2,117,101,109.8,1,0,0
+"466","Mitsubishi","Raider Pickup 2WD",2007,"Standard Pickup Trucks 2WD",4.7,"Automatic",8,14,19,16.25,1,0,0
+"467","Dodge","D100/D150 Pickup 2WD",1984,"Standard Pickup Trucks 2WD",5.2,"Automatic",8,11,12,11.45,1,0,0
+"468","Ferrari","F430",2009,"Two Seaters",4.3,"Manual",8,11,16,13.25,0,0,0
+"469","Hyundai","Tiburon (Coupe)",1997,"Subcompact Cars",2,"Automatic",4,18,26,21.6,1,1,0
+"470","Mitsubishi","Raider Pickup 4WD",2009,"Standard Pickup Trucks 4WD",4.7,"Automatic",8,14,12,13.1,1,0,0
+"471","Mitsubishi","Galant",2006,"Midsize Cars",2.4,"Automatic",4,20,27,23.15,1,1,0
+"472","Chevrolet","V10 Blazer 4WD",1988,"Special Purpose Vehicles",5.7,"Manual",8,11,14,12.35,0,0,0
+"473","Chevrolet","K1500 Pickup 4WD",1999,"Standard Pickup Trucks 4WD",5.7,"Automatic",8,12,16,13.8,1,0,0
+"474","Nissan","370Z Roadster",2015,"Two Seaters",3.7,"Automatic",6,18,25,21.15,1,0,0
+"475","GMC","Savana 2500 2WD (Passenger)",2013,"Vans, Passenger Type",6,"Automatic",8,11,12,11.45,1,0,0
+"476","Hyundai","Veloster",2014,"Compact Cars",1.6,"Manual",4,26,34,29.6,0,1,0
+"477","Toyota","RAV4 Limited AWD/SE AWD",2016,"Small Sport Utility Vehicle 4WD",2.5,"Automatic",4,22,28,24.7,1,0,0
+"478","Saab","900 Convertible",1997,"Subcompact Cars",2.3,"Automatic",4,17,25,20.6,1,1,0
+"479","Buick","Skyhawk",1986,"Compact Cars",1.8,"Manual",4,19,26,22.15,0,1,0
+"480","GMC","Savana 2500 2WD (Passenger)",2012,"Vans, Passenger Type",6,"Automatic",8,11,16,13.25,1,0,0
+"481","Mercedes-Benz","C240 FFV (Wagon)",2004,"Small Station Wagons",2.6,"Automatic",6,17,23,19.7,1,0,0
+"482","Honda","Civic",1999,"Subcompact Cars",1.6,"Manual",4,25,32,28.15,0,1,0
+"483","Toyota","4Runner 4WD",1989,"Special Purpose Vehicles",3,"Manual",6,15,18,16.35,0,0,0
+"484","Suzuki","Esteem Wagon",2000,"Small Station Wagons",1.8,"Automatic",4,23,30,26.15,1,1,0
+"485","Mazda","CX-9 2WD",2013,"Small Sport Utility Vehicle 2WD",3.7,"Automatic",6,17,24,20.15,1,1,0
+"486","Chevrolet","Equinox FWD",2016,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,15,21,17.7,1,1,0
+"487","Kia","Forte 5",2018,"Large Cars",1.6,"Automatic",4,25,30,27.25,1,1,0
+"488","Plymouth","Colt",1987,"Subcompact Cars",1.6,"Automatic",4,21,24,22.35,1,1,0
+"489","Mazda","MX-5 Miata",2001,"Two Seaters",1.8,"Manual",4,20,26,22.7,0,0,0
+"490","Lincoln","MKZ Hybrid FWD",2019,"Midsize Cars",2,"Automatic",4,42,39,40.65,1,1,0
+"491","Nissan","Murano FWD",2012,"Sport Utility Vehicle - 2WD",3.5,"Automatic",6,18,23,20.25,1,1,0
+"492","Ford","Ranger Pickup 2WD",2007,"Standard Pickup Trucks 2WD",2.3,"Manual",4,21,26,23.25,0,0,0
+"493","Chevrolet","Impala",2013,"Large Cars",3.6,"Automatic",6,14,29,20.75,1,1,0
+"494","Ferrari","360 Modena/Spider/Challenge",2004,"Two Seaters",3.6,"Automatic",8,10,15,12.25,1,0,0
+"495","Chevrolet","V10 (K10) Pickup 4WD",1987,"Standard Pickup Trucks",5,"Automatic",8,12,14,12.9,1,0,0
+"496","Saturn","Astra 4DR Hatchback",2008,"Compact Cars",1.8,"Automatic",4,24,30,26.7,1,1,0
+"497","Volkswagen","New Beetle",1999,"Subcompact Cars",2,"Manual",4,21,28,24.15,0,1,0
+"498","Chevrolet","HHR Panel FWD",2011,"Sport Utility Vehicle - 2WD",2.2,"Manual",4,22,22,22,0,1,0
+"499","GMC","Yukon XL 1500 2WD",2009,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,14,20,16.7,1,0,0
+"500","Dodge","Dakota Pickup 4WD",2007,"Standard Pickup Trucks 4WD",3.7,"Manual",6,15,19,16.8,0,0,0
+"501","Jeep","Wagoneer Limited 4WD",1989,"Special Purpose Vehicles",4,"Automatic",6,14,19,16.25,1,0,0
+"502","Porsche","911 Turbo",1991,"Minicompact Cars",3.3,"Manual",6,12,20,15.6,0,0,0
+"503","Dodge","B150/B250 Van 2WD",1987,"Vans",3.7,"Manual",6,12,16,13.8,0,0,0
+"504","Mazda","MPV",1991,"Special Purpose Vehicles",2.6,"Manual",4,18,23,20.25,0,0,0
+"505","Nissan","Axxess AWD",1991,"Special Purpose Vehicles",2.4,"Automatic",4,16,20,17.8,1,0,0
+"506","Hyundai","Sonata SE",2019,"Large Cars",2.4,"Automatic",4,26,35,30.05,1,1,0
+"507","Mercedes-Benz","CL550",2008,"Compact Cars",5.5,"Automatic",8,14,21,17.15,1,0,0
+"508","Geo","Tracker 4WD",1990,"Special Purpose Vehicles",1.6,"Manual",4,23,26,24.35,0,0,0
+"509","GMC","Sonoma 2WD",1996,"Small Pickup Trucks",2.2,"Manual",4,20,27,23.15,0,0,0
+"510","Chrysler","Sebring",1997,"Compact Cars",2.5,"Automatic",6,18,25,21.15,1,1,0
+"511","Lotus","Evora",2011,"Minicompact Cars",3.5,"Automatic",6,20,28,23.6,1,0,0
+"512","Lexus","ES 350",2008,"Midsize Cars",3.5,"Automatic",6,19,27,22.6,1,1,0
+"513","Roush Performance","Stage 3 Mustang",2002,"Subcompact Cars",4.6,"Automatic",8,16,21,18.25,1,0,0
+"514","Honda","CR-V 4WD",2007,"Sport Utility Vehicle - 4WD",2.4,"Automatic",4,19,26,22.15,1,0,0
+"515","Honda","S2000",2009,"Two Seaters",2.2,"Manual",4,18,25,21.15,0,0,0
+"516","Buick","Electra/Park Avenue",1985,"Large Cars",3,"Automatic",6,15,23,18.6,1,1,0
+"517","Dodge","Stratus 4 Door",2003,"Midsize Cars",2.7,"Automatic",6,19,19,19,1,1,0
+"518","Nissan","Altima SR",2016,"Midsize Cars",2.5,"Automatic",4,26,37,30.95,1,1,0
+"519","CX Automotive","XM v6",1993,"Midsize Cars",3,"Manual",6,13,19,15.7,0,1,0
+"520","Volvo","S80/S80 Executive",2003,"Midsize Cars",2.9,"Automatic",6,18,25,21.15,1,1,0
+"521","Chevrolet","K2500 Pickup 4WD",1991,"Standard Pickup Trucks",4.3,"Manual",6,15,18,16.35,0,0,0
+"522","Toyota","Truck 2WD",1987,"Small Pickup Trucks",2.4,"Automatic",4,20,23,21.35,1,0,0
+"523","Ford","F150 Pickup 2WD",2012,"Standard Pickup Trucks 2WD",3.5,"Automatic",6,16,22,18.7,1,0,0
+"524","Porsche","Cayman S",2015,"Two Seaters",3.4,"Manual",6,20,27,23.15,0,0,0
+"525","Chrysler","Sebring 4 Door",2006,"Midsize Cars",2.7,"Automatic",6,14,19,16.25,1,1,0
+"526","Volkswagen","Beetle Dune Convertible",2018,"Subcompact Cars",2,"Automatic",4,26,34,29.6,1,1,0
+"527","Chrysler","Voyager/Town and Country 2WD",2005,"Minivan - 2WD",3.3,"Automatic",6,17,24,20.15,1,1,0
+"528","Jeep","Grand Cherokee 4WD",2009,"Sport Utility Vehicle - 4WD",3.7,"Automatic",6,15,20,17.25,1,0,0
+"529","Lincoln","Navigator 2WD FFV",2012,"Sport Utility Vehicle - 2WD",5.4,"Automatic",8,10,14,11.8,1,0,0
+"530","Dodge","D250 Pickup 2WD",1988,"Standard Pickup Trucks",3.9,"Manual",6,14,16,14.9,0,0,0
+"531","Ferrari","458 Speciale",2014,"Two Seaters",4.5,"Automatic",8,13,17,14.8,1,0,0
+"532","Lexus","IS 250 AWD",2007,"Subcompact Cars",2.5,"Automatic",6,20,26,22.7,1,0,0
+"533","Buick","Regal",2012,"Midsize Cars",2,"Manual",4,15,22,18.15,0,1,0
+"534","Ford","Contour",1995,"Compact Cars",2,"Automatic",4,21,29,24.6,1,1,0
+"535","BMW","328ci xDrive",2011,"Subcompact Cars",3,"Manual",6,17,25,20.6,0,0,0
+"536","Acura","TLX FWD",2017,"Compact Cars",3.5,"Automatic",6,21,34,26.85,1,1,0
+"537","Buick","Verano",2013,"Compact Cars",2.4,"Automatic",4,15,22,18.15,1,1,0
+"538","Consulier Industries Inc","Consulier GTP",1990,"Two Seaters",2.2,"Manual",4,18,24,20.7,0,0,0
+"539","Honda","Civic CRX",1988,"Two Seaters",1.5,"Manual",4,29,35,31.7,0,1,0
+"540","Audi","R8 Spyder RWD",2018,"Two Seaters",5.2,"Automatic",10,14,25,18.95,1,0,0
+"541","Honda","Ridgeline AWD",2018,"Standard Pickup Trucks 4WD",3.5,"Automatic",6,18,25,21.15,1,0,0
+"542","Chevrolet","Chevette",1985,"Subcompact Cars",1.6,"Manual",4,23,31,26.6,0,0,0
+"543","GMC","Yukon XL 1500 AWD",2013,"Standard Sport Utility Vehicle 4WD",6.2,"Automatic",8,13,18,15.25,1,0,0
+"544","Jeep","Liberty 2WD",2010,"Sport Utility Vehicle - 2WD",3.7,"Automatic",6,16,22,18.7,1,0,0
+"545","GMC","Acadia FWD",2012,"Sport Utility Vehicle - 2WD",3.6,"Automatic",6,17,24,20.15,1,1,0
+"546","BMW","330ci Convertible",2003,"Minicompact Cars",3,"Manual",6,17,26,21.05,0,0,0
+"547","Rolls-Royce","Brooklands",1997,"Midsize Cars",6.8,"Automatic",8,10,15,12.25,1,0,0
+"548","Aston Martin","DBS",2011,"Minicompact Cars",5.9,"Manual",12,11,17,13.7,0,0,0
+"549","Buick","Skyhawk Wagon",1987,"Small Station Wagons",2,"Automatic",4,21,28,24.15,1,1,0
+"550","BMW","540i xDrive",2017,"Midsize Cars",3,"Automatic",6,20,29,24.05,1,0,0
+"551","Subaru","Forester AWD",2004,"Sport Utility Vehicle - 4WD",2.5,"Manual",4,16,22,18.7,0,0,0
+"552","Chevrolet","Avalanche 1500 AWD",2004,"Sport Utility Vehicle - 4WD",5.3,"Automatic",8,9,17,12.6,1,0,0
+"553","Mazda","3",2008,"Compact Cars",2.3,"Manual",4,22,29,25.15,0,1,0
+"554","Rolls-Royce","Silver Spur Limousine",1985,"Large Cars",6.8,"Automatic",8,7,9,7.9,1,0,0
+"555","Jeep","Cherokee 4WD Active Drive II",2016,"Small Sport Utility Vehicle 4WD",3.2,"Automatic",6,19,26,22.15,1,0,0
+"556","Chevrolet","S10 Blazer 2WD",1985,"Special Purpose Vehicle 2WD",2.5,"Manual",4,19,26,22.15,0,0,0
+"557","BMW","750i xDrive",2015,"Large Cars",4.4,"Automatic",8,16,24,19.6,1,0,0
+"558","Volvo","V60 Polestar AWD",2017,"Small Station Wagons",2,"Automatic",4,20,27,23.15,1,0,0
+"559","Mitsubishi","Eclipse",1994,"Subcompact Cars",2,"Manual",4,19,26,22.15,0,1,0
+"560","Dodge","W250 Pickup 4WD",1990,"Standard Pickup Trucks",5.2,"Manual",8,11,14,12.35,0,0,0
+"561","Chrysler","Sebring Convertible",2004,"Compact Cars",2.7,"Automatic",6,19,25,21.7,1,1,0
+"562","GMC","Yukon 1500 2WD",2012,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,15,16,15.45,1,0,0
+"563","Autokraft Limited","A.C.Mkiv",1987,"Two Seaters",5,"Manual",8,15,21,17.7,0,0,0
+"564","Nissan","Sentra",2001,"Compact Cars",2,"Automatic",4,21,27,23.7,1,1,0
+"565","Kia","Spectra",2007,"Midsize Cars",2,"Manual",4,23,30,26.15,0,1,0
+"566","Lincoln","Navigator L 2WD",2017,"Standard Sport Utility Vehicle 2WD",3.5,"Automatic",6,15,20,17.25,1,0,0
+"567","Volkswagen","Jetta",2001,"Compact Cars",2.8,"Manual",6,17,26,21.05,0,1,0
+"568","Volkswagen","Beetle Convertible",2013,"Subcompact Cars",2,"Automatic",4,21,28,24.15,1,1,0
+"569","Suzuki","Vitara 2Door 2WD",1999,"Sport Utility Vehicle - 2WD",2,"Manual",4,20,22,20.9,0,0,0
+"570","Ferrari","599 GTB",2007,"Two Seaters",5.9,"Manual",12,10,14,11.8,0,0,0
+"571","Nissan","Sentra Wagon",1985,"Small Station Wagons",1.6,"Automatic",4,23,27,24.8,1,1,0
+"572","Chevrolet","Camaro",2013,"Compact Cars",6.2,"Manual",8,14,19,16.25,0,0,0
+"573","Audi","S7",2018,"Midsize Cars",4,"Automatic",8,16,24,19.6,1,0,0
+"574","J.K. Motors","Testarossa",1993,"Two Seaters",4.9,"Manual",12,9,14,11.25,0,0,0
+"575","Audi","A3 quattro",2010,"Small Station Wagons",2,"Automatic",4,21,28,24.15,1,0,0
+"576","Chevrolet","Colorado 2WD",2007,"Standard Pickup Trucks 2WD",2.9,"Manual",4,18,24,20.7,0,0,0
+"577","Ford","Ranger Pickup 2WD",1994,"Standard Pickup Trucks",3,"Automatic",6,16,22,18.7,1,0,0
+"578","Chrysler","Sebring",2002,"Compact Cars",3,"Automatic",6,18,26,21.6,1,1,0
+"579","GMC","Yukon XL 1500 4WD",2005,"Sport Utility Vehicle - 4WD",5.3,"Automatic",8,13,13,13,1,0,0
+"580","Volvo","V50 FWD",2007,"Small Station Wagons",2.4,"Automatic",5,20,28,23.6,1,1,0
+"581","Dodge","D100/D150 Pickup 2WD",1989,"Standard Pickup Trucks",3.9,"Manual",6,12,17,14.25,0,0,0
+"582","Buick","Rainier AWD",2007,"Sport Utility Vehicle - 4WD",5.3,"Automatic",8,13,19,15.7,1,0,0
+"583","Jeep","Patriot 4WD",2008,"Sport Utility Vehicle - 4WD",2.4,"Manual",4,22,27,24.25,0,0,0
+"584","Chevrolet","Trax",2017,"Small Sport Utility Vehicle 2WD",1.4,"Automatic",4,25,33,28.6,1,1,0
+"585","Mitsubishi","Lancer Evolution",2013,"Compact Cars",2,"Automatic",4,17,22,19.25,1,0,0
+"586","Ferrari","F430",2009,"Two Seaters",4.3,"Automatic",8,11,16,13.25,1,0,0
+"587","Subaru","Impreza Wagon/Outback SPT AWD",2009,"Small Station Wagons",2.5,"Manual",4,20,27,23.15,0,0,0
+"588","Scion","xB",2008,"Small Station Wagons",2.4,"Manual",4,22,28,24.7,0,1,0
+"589","Mercedes-Benz","AMG C63",2017,"Compact Cars",4,"Automatic",8,18,25,21.15,1,0,0
+"590","Nissan","Stanza Wagon 4WD",1986,"Special Purpose Vehicles",2,"Automatic",4,17,20,18.35,1,0,0
+"591","Jeep","Commander 4WD",2007,"Sport Utility Vehicle - 4WD",4.7,"Automatic",8,9,12,10.35,1,0,0
+"592","Ford","Aerostar Wagon",1990,"Vans",3,"Manual",6,15,20,17.25,0,0,0
+"593","Mitsubishi","Raider Pickup 2WD",2009,"Standard Pickup Trucks 2WD",4.7,"Automatic",8,14,19,16.25,1,0,0
+"594","Dodge","D100/D150 Pickup 2WD",1990,"Standard Pickup Trucks",5.2,"Automatic",8,11,15,12.8,1,0,0
+"595","Toyota","C-HR",2018,"Compact Cars",2,"Automatic",4,27,31,28.8,1,1,0
+"596","Jeep","Grand Cherokee 2WD",2009,"Sport Utility Vehicle - 2WD",4.7,"Automatic",8,14,13,13.55,1,0,0
+"597","Lincoln","MKZ AWD",2009,"Midsize Cars",3.5,"Automatic",6,17,24,20.15,1,0,0
+"598","Chevrolet","Tahoe C10 2WD",2014,"Standard Sport Utility Vehicle 2WD",5.3,"Automatic",8,11,16,13.25,1,0,0
+"599","Plymouth","Colt Vista",1993,"Midsize-Large Station Wagons",2.4,"Manual",4,19,26,22.15,0,1,0
+"600","Chevrolet","Corsica",1990,"Midsize Cars",3.1,"Manual",6,17,26,21.05,0,1,0
+"601","Volkswagen","New Beetle",2002,"Subcompact Cars",1.9,"Automatic",4,29,39,33.5,1,1,1
+"602","Chevrolet","Sonic 5 RS",2016,"Midsize Cars",1.4,"Manual",4,26,33,29.15,0,1,0
+"603","Isuzu","Rodeo 2WD",1991,"Special Purpose Vehicles",3.1,"Manual",6,14,17,15.35,0,0,0
+"604","Mazda","626/MX-6",1989,"Midsize Cars",2.2,"Automatic",4,17,23,19.7,1,1,0
+"605","Cadillac","CTS Wagon",2011,"Small Station Wagons",3.6,"Automatic",6,18,26,21.6,1,0,0
+"606","Porsche","911 Carrera S",2012,"Minicompact Cars",3.8,"Automatic",6,19,26,22.15,1,0,0
+"607","Ford","Probe",1991,"Compact Cars",2.2,"Automatic",4,17,23,19.7,1,1,0
+"608","Isuzu","Rodeo 2WD",2000,"Sport Utility Vehicle - 2WD",2.2,"Manual",4,18,21,19.35,0,0,0
+"609","Saturn","Ion",2004,"Compact Cars",2.2,"Automatic",4,22,29,25.15,1,1,0
+"610","Subaru","Forester AWD",2010,"Sport Utility Vehicle - 4WD",2.5,"Manual",4,20,27,23.15,0,0,0
+"611","Hyundai","Accent (Sporty)",1996,"Compact Cars",1.5,"Automatic",4,22,30,25.6,1,1,0
+"612","Nissan","NV200 Cargo Van",2020,"Special Purpose Vehicle 2WD",2,"Automatic",4,24,26,24.9,1,1,0
+"613","Jeep","Compass 2WD",2012,"Sport Utility Vehicle - 2WD",2.4,"Manual",4,23,28,25.25,0,1,0
+"614","Ford","Crown Victoria FFV",2008,"Large Cars",4.6,"Automatic",8,15,16,15.45,1,0,0
+"615","Daewoo","Nubira Wagon",1998,"Small Station Wagons",1.6,"Manual",4,20,29,24.05,0,1,0
+"616","Chevrolet","Astro 2WD (cargo)",1989,"Vans",2.5,"Manual",4,18,24,20.7,0,0,0
+"617","Volvo","V50 FWD",2009,"Small Station Wagons",2.4,"Manual",5,20,28,23.6,0,1,0
+"618","Ford","LTD Crown Victoria",1991,"Large Cars",5,"Automatic",8,15,22,18.15,1,0,0
+"619","Oldsmobile","Cutlass Supreme",1996,"Midsize Cars",3.1,"Automatic",6,18,26,21.6,1,1,0
+"620","Ford","F250 Pickup 2WD",1984,"Standard Pickup Trucks 2WD",5.8,"Automatic",8,10,11,10.45,1,0,0
+"621","Plymouth","Acclaim",1993,"Midsize Cars",3,"Automatic",6,18,26,21.6,1,1,0
+"622","Honda","Accord Wagon",1994,"Small Station Wagons",2.2,"Manual",4,22,28,24.7,0,1,0
+"623","Pontiac","Parisienne",1986,"Large Cars",4.3,"Automatic",6,16,22,18.7,1,0,0
+"624","Toyota","4Runner 4WD",1987,"Special Purpose Vehicles",2.4,"Automatic",4,15,17,15.9,1,0,0
+"625","Infiniti","G20",2001,"Compact Cars",2,"Manual",4,21,29,24.6,0,1,0
+"626","Suzuki","Grand Vitara",2010,"Sport Utility Vehicle - 2WD",2.4,"Manual",4,19,26,22.15,0,0,0
+"627","Dodge","Caravan/Grand Caravan 2WD",2000,"Minivan - 2WD",3.3,"Automatic",6,12,23,16.95,1,1,0
+"628","Volvo","S90 AWD PHEV",2019,"Midsize Cars",2,"Automatic",4,26,72,46.7,1,0,0
+"629","Hyundai","Accent",1998,"Compact Cars",1.5,"Automatic",4,23,32,27.05,1,1,0
+"630","Dodge","B150/B250 Wagon 2WD",1986,"Vans",5.2,"Automatic",8,11,13,11.9,1,0,0
+"631","Dodge","600 Convertible",1985,"Subcompact Cars",2.2,"Automatic",4,17,22,19.25,1,1,0
+"632","Dodge","Colt",1991,"Subcompact Cars",1.5,"Automatic",4,24,29,26.25,1,1,0
+"633","Chevrolet","Express Cargo (Bi-fuel)",2004,"Vans, Cargo Type",6,"Automatic",8,11,15,12.8,1,0,0
+"634","MINI","Clubman S",2009,"Subcompact Cars",1.6,"Manual",4,26,34,29.6,0,1,0
+"635","Dodge","Caravan/Grand Caravan 2WD",1997,"Special Purpose Vehicles",2.4,"Automatic",4,18,23,20.25,1,1,0
+"636","Ford","Taurus AWD",2009,"Large Cars",3.5,"Automatic",6,17,24,20.15,1,0,0
+"637","Volkswagen","Jetta",2016,"Compact Cars",1.8,"Manual",4,25,36,29.95,0,1,0
+"638","Nissan","Maxima",2000,"Midsize Cars",3,"Automatic",6,18,26,21.6,1,1,0
+"639","Maserati","Levante S",2020,"Standard Sport Utility Vehicle 4WD",3,"Automatic",6,15,21,17.7,1,0,0
+"640","Nissan","Frontier 2WD",2017,"Small Pickup Trucks 2WD",4,"Automatic",6,16,23,19.15,1,0,0
+"641","Lincoln","Navigator Limo. 2WD FFV",2011,"Sport Utility Vehicle - 2WD",5.4,"Automatic",8,8,16,11.6,1,0,0
+"642","Plymouth","Reliant Wagon",1985,"Midsize-Large Station Wagons",2.2,"Automatic",4,19,24,21.25,1,1,0
+"643","Mitsubishi","Montero",1995,"Special Purpose Vehicles",3,"Manual",6,14,17,15.35,0,0,0
+"644","Mitsubishi","Mirage",1994,"Subcompact Cars",1.8,"Automatic",4,23,30,26.15,1,1,0
+"645","Toyota","4Runner 4WD",2003,"Sport Utility Vehicle - 4WD",4,"Automatic",6,15,19,16.8,1,0,0
+"646","Dodge","Dakota Pickup 4WD",1992,"Standard Pickup Trucks",3.9,"Automatic",6,14,18,15.8,1,0,0
+"647","GMC","Sierra 2500 2WD",1994,"Standard Pickup Trucks",5.7,"Automatic",8,12,16,13.8,1,0,0
+"648","Toyota","Sienna 2WD",2019,"Minivan - 2WD",3.5,"Automatic",6,19,27,22.6,1,1,0
+"649","Nissan","Truck 2WD",1985,"Small Pickup Trucks",2.5,"Manual",4,26,30,27.8,0,0,1
+"650","Maybach","62S",2007,"Large Cars",6,"Automatic",12,10,16,12.7,1,0,0
+"651","Isuzu","Stylus",1992,"Compact Cars",1.8,"Manual",4,21,29,24.6,0,1,0
+"652","Dodge","B150/B250 Van 2WD",1986,"Vans",3.7,"Automatic",6,14,16,14.9,1,0,0
+"653","Honda","Accord",2003,"Midsize Cars",2.4,"Automatic",4,21,31,25.5,1,1,0
+"654","GMC","Yukon 1500 2WD",2008,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,14,20,16.7,1,0,0
+"655","Kia","Sorento AWD",2016,"Small Sport Utility Vehicle 4WD",2.4,"Automatic",4,21,25,22.8,1,0,0
+"656","GMC","Sierra C15 2WD",2017,"Standard Pickup Trucks 2WD",4.3,"Automatic",6,18,24,20.7,1,0,0
+"657","Chevrolet","Express 2500 2WD Passenger",2012,"Vans, Passenger Type",6,"Automatic",8,11,12,11.45,1,0,0
+"658","Volkswagen","Golf",1987,"Compact Cars",1.8,"Manual",4,23,31,26.6,0,1,0
+"659","Chevrolet","Suburban 1500 AWD",2004,"Sport Utility Vehicle - 4WD",5.3,"Automatic",8,9,13,10.8,1,0,0
+"660","Dodge","Power Ram 50 Pickup 4WD",1984,"Small Pickup Trucks 4WD",2.6,"Manual",4,17,20,18.35,0,0,0
+"661","Audi","200 quattro",1989,"Midsize Cars",2.2,"Manual",5,15,23,18.6,0,0,0
+"662","Subaru","Impreza Wagon/Outback SPT AWD",2006,"Small Station Wagons",2.5,"Manual",4,17,24,20.15,0,0,0
+"663","Chevrolet","Suburban C1500 2WD",2019,"Standard Sport Utility Vehicle 2WD",5.3,"Automatic",8,11,17,13.7,1,0,0
+"664","Nissan","Sentra FE",2013,"Midsize Cars",1.8,"Automatic",4,30,39,34.05,1,1,0
+"665","Mercury","Capri",1985,"Subcompact Cars",3.8,"Automatic",6,17,21,18.8,1,0,0
+"666","Volkswagen","Passat Wagon 4motion",2008,"Midsize Station Wagons",3.6,"Automatic",6,16,24,19.6,1,0,0
+"667","Plymouth","Voyager/Grand Voyager 2WD",1997,"Special Purpose Vehicles",2.4,"Automatic",4,18,23,20.25,1,1,0
+"668","Toyota","Camry",2006,"Midsize Cars",2.4,"Automatic",4,21,31,25.5,1,1,0
+"669","Lexus","IS 250/IS 250C",2012,"Subcompact Cars",2.5,"Manual",6,19,27,22.6,0,0,0
+"670","Chrysler","Town and Country",2014,"Minivan - 2WD",3.6,"Automatic",6,12,18,14.7,1,1,0
+"671","Subaru","Wagon",1989,"Small Station Wagons",1.8,"Manual",4,22,28,24.7,0,1,0
+"672","Ford","Flex AWD",2014,"Standard Sport Utility Vehicle 4WD",3.5,"Automatic",6,16,23,19.15,1,0,0
+"673","Chevrolet","HHR Panel FWD",2009,"Sport Utility Vehicle - 2WD",2.2,"Automatic",4,22,22,22,1,1,0
+"674","BMW","X5 xDrive30i",2010,"Sport Utility Vehicle - 4WD",3,"Automatic",6,15,21,17.7,1,0,0
+"675","Honda","Accord",2020,"Large Cars",1.5,"Manual",4,26,35,30.05,0,1,0
+"676","Volkswagen","Passat Wagon",1990,"Midsize-Large Station Wagons",2,"Manual",4,18,27,22.05,0,1,0
+"677","MINI","John Cooper Works Hardtop",2018,"Subcompact Cars",2,"Manual",4,23,32,27.05,0,1,0
+"678","BMW","M Roadster",2000,"Minicompact Cars",3.2,"Manual",6,17,23,19.7,0,0,0
+"679","Ford","Escort",1996,"Compact Cars",1.8,"Automatic",4,20,27,23.15,1,1,0
+"680","Jeep","New Wrangler 4WD",2018,"Small Sport Utility Vehicle 4WD",3.6,"Manual",6,17,25,20.6,0,0,0
+"681","GMC","Sierra C15 2WD",2008,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,11,20,15.05,1,0,0
+"682","Hyundai","Elantra",2013,"Midsize Cars",1.8,"Manual",4,28,38,32.5,0,1,0
+"683","GMC","Rally G15/25 2WD",1993,"Vans",5.7,"Automatic",8,11,16,13.25,1,0,0
+"684","Ford","Probe",1997,"Subcompact Cars",2.5,"Manual",6,18,24,20.7,0,1,0
+"685","Suzuki","SX4 AWD",2008,"Small Station Wagons",2,"Automatic",4,21,28,24.15,1,0,0
+"686","GMC","Yukon K1500 4WD",2017,"Standard Sport Utility Vehicle 4WD",5.3,"Automatic",8,16,22,18.7,1,0,0
+"687","Mazda","B3000 FFV 4WD",2000,"Standard Pickup Trucks 4WD",3,"Manual",6,15,20,17.25,0,0,0
+"688","Land Rover","LR3",2005,"Sport Utility Vehicle - 4WD",4,"Automatic",6,13,18,15.25,1,0,0
+"689","Chrysler","Sebring",2003,"Compact Cars",2.4,"Manual",4,21,30,25.05,0,1,0
+"690","Suzuki","Forenza Wagon",2005,"Small Station Wagons",2,"Manual",4,18,27,22.05,0,1,0
+"691","Mazda","B2300 2WD",2001,"Standard Pickup Trucks 2WD",2.3,"Manual",4,21,26,23.25,0,0,0
+"692","Jaguar","F-Type S Coupe",2017,"Two Seaters",3,"Automatic",6,19,27,22.6,1,0,0
+"693","Pontiac","Bonneville",1985,"Midsize Cars",3.8,"Automatic",6,17,22,19.25,1,0,0
+"694","Saturn","Ion",2007,"Compact Cars",2,"Manual",4,20,28,23.6,0,1,0
+"695","GMC","Safari 2WD (passenger)",1986,"Vans",2.5,"Manual",4,20,26,22.7,0,0,0
+"696","Audi","A7 quattro",2016,"Midsize Cars",3,"Automatic",6,25,38,30.85,1,0,1
+"697","Dodge","W100/W150 Pickup 4WD",1987,"Standard Pickup Trucks",3.7,"Manual",6,12,16,13.8,0,0,0
+"698","Chrysler","Town and Country/Voyager/Grand Voy. 2WD",2008,"Minivan - 2WD",3.3,"Automatic",6,11,17,13.7,1,1,0
+"699","Hyundai","Tucson AWD",2018,"Small Sport Utility Vehicle 4WD",2,"Automatic",4,21,26,23.25,1,0,0
+"700","BMW","X6 sDrive40i",2020,"Standard Sport Utility Vehicle 2WD",3,"Automatic",6,21,26,23.25,1,0,0
+"701","Dodge","Ram Wagon 1500 2WD",2001,"Vans, Passenger Type",5.2,"Automatic",8,12,17,14.25,1,0,0
+"702","Jaguar","F-Type R AWD Convertible",2017,"Two Seaters",5,"Automatic",8,15,23,18.6,1,0,0
+"703","Audi","A4 Avant quattro",2010,"Small Station Wagons",2,"Automatic",4,21,27,23.7,1,0,0
+"704","Nissan","Altima AWD SR/Platinum",2020,"Midsize Cars",2.5,"Automatic",4,25,35,29.5,1,0,0
+"705","GMC","Savana 1500/2500 2WD (cargo)",2002,"Vans, Cargo Type",5,"Automatic",8,13,17,14.8,1,0,0
+"706","Chevrolet","Astro 2WD (cargo)",2002,"Vans, Cargo Type",4.3,"Automatic",6,15,20,17.25,1,0,0
+"707","Mazda","B2300/B3000/B4000 Pickup 2WD",1997,"Standard Pickup Trucks",2.3,"Manual",4,21,24,22.35,0,0,0
+"708","Toyota","Celica",1996,"Subcompact Cars",2.2,"Automatic",4,19,26,22.15,1,1,0
+"709","Oldsmobile","Cutlass",1998,"Midsize Cars",3.1,"Automatic",6,17,27,21.5,1,1,0
+"710","Pontiac","Firebird/Formula",1995,"Subcompact Cars",5.7,"Automatic",8,15,23,18.6,1,0,0
+"711","GMC","Sierra C15 XFE 2WD",2010,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,11,22,15.95,1,0,0
+"712","Volkswagen","Jetta",2004,"Compact Cars",1.9,"Manual",4,32,42,36.5,0,1,1
+"713","Mazda","Protege/Protege MPS",2001,"Compact Cars",1.6,"Automatic",4,23,30,26.15,1,1,0
+"714","Dodge","Aries Wagon",1985,"Midsize-Large Station Wagons",2.6,"Automatic",4,18,21,19.35,1,1,0
+"715","Porsche","Cayenne",2014,"Standard Sport Utility Vehicle 4WD",3.6,"Manual",6,15,22,18.15,0,0,0
+"716","GMC","Sierra 2WD",2020,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,11,19,14.6,1,0,0
+"717","Chrysler","200",2015,"Midsize Cars",2.4,"Automatic",4,17,36,25.55,1,1,0
+"718","MINI","Cooper S JCWorks GP Kit",2006,"Two Seaters",1.6,"Manual",4,20,27,23.15,0,1,0
+"719","Ford","Taurus FWD FFV",2016,"Large Cars",3.5,"Automatic",6,18,20,18.9,1,1,0
+"720","MINI","Cooper S Convertible",2018,"Minicompact Cars",2,"Manual",4,23,32,27.05,0,1,0
+"721","Dodge","B150/B250 Van 2WD",1988,"Vans",3.9,"Manual",6,12,17,14.25,0,0,0
+"722","Plymouth","Sundance/Duster",1992,"Compact Cars",3,"Manual",6,18,26,21.6,0,1,0
+"723","Nissan","Pathfinder FE 2WD",2010,"Sport Utility Vehicle - 2WD",4,"Automatic",6,15,22,18.15,1,0,0
+"724","Volvo","XC60 FWD",2013,"Small Sport Utility Vehicle 2WD",3.2,"Automatic",6,19,25,21.7,1,1,0
+"725","Ford","F250 Pickup 4WD",1990,"Standard Pickup Trucks",5,"Automatic",8,11,16,13.25,1,0,0
+"726","Volkswagen","GTI/Golf GT",1987,"Compact Cars",1.8,"Automatic",4,21,24,22.35,1,1,0
+"727","Toyota","Camry",1990,"Compact Cars",2.5,"Automatic",6,17,23,19.7,1,1,0
+"728","GMC","Sierra 1500 4WD",1995,"Standard Pickup Trucks",4.3,"Manual",6,14,17,15.35,0,0,0
+"729","Pontiac","Firebird",2002,"Subcompact Cars",5.7,"Manual",8,17,25,20.6,0,0,0
+"730","Mercury","Tracer",1999,"Compact Cars",2,"Manual",4,24,34,28.5,0,1,0
+"731","Chevrolet","Tahoe K1500 4WD",2018,"Standard Sport Utility Vehicle 4WD",6.2,"Automatic",8,14,22,17.6,1,0,0
+"732","BMW","530e",2020,"Compact Cars",2,"Automatic",4,65,75,69.5,1,0,0
+"733","Nissan","Armada 2WD",2009,"Sport Utility Vehicle - 2WD",5.6,"Automatic",8,9,18,13.05,1,0,0
+"734","Chevrolet","G10/20 Van 2WD",1992,"Vans",5,"Automatic",8,13,17,14.8,1,0,0
+"735","Mercedes-Benz","S550 4matic",2013,"Large Cars",4.7,"Automatic",8,15,24,19.05,1,0,0
+"736","Plymouth","Voyager/Grand Voyager 2WD",1989,"Special Purpose Vehicle 2WD",2.5,"Manual",4,16,23,19.15,0,1,0
+"737","Chevrolet","Suburban 1500 2WD",2012,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,15,16,15.45,1,0,0
+"738","GMC","C25 Pickup 2WD",1985,"Standard Pickup Trucks",5,"Automatic",8,14,17,15.35,1,0,0
+"739","Pontiac","Sunbird",1985,"Compact Cars",1.8,"Manual",4,19,27,22.6,0,1,0
+"740","Mercedes-Benz","500SEL 5.6L",1992,"Midsize Cars",5.6,"Automatic",8,10,13,11.35,1,0,0
+"741","Toyota","Celica Convertible",1991,"Minicompact Cars",2.2,"Automatic",4,21,28,24.15,1,1,0
+"742","Plymouth","Voyager/Grand Voyager 2WD",2000,"Minivan - 2WD",2.4,"Automatic",4,18,24,20.7,1,1,0
+"743","Mitsubishi","Outlander 4WD",2009,"Sport Utility Vehicle - 4WD",3,"Automatic",6,17,23,19.7,1,0,0
+"744","BMW","335i Coupe",2012,"Subcompact Cars",3,"Manual",6,19,27,22.6,0,0,0
+"745","Bentley","Continental GT",2015,"Compact Cars",6,"Automatic",12,12,15,13.35,1,0,0
+"746","Ford","Escape 4WD",2003,"Sport Utility Vehicle - 4WD",3,"Automatic",6,16,21,18.25,1,0,0
+"747","Mazda","B2300/B3000/B4000 Pickup 4WD",1996,"Standard Pickup Trucks",3,"Manual",6,16,22,18.7,0,0,0
+"748","Subaru","Impreza AWD",2010,"Compact Cars",2.5,"Manual",4,20,27,23.15,0,0,0
+"749","Chevrolet","Van 1500 AWD Conversion",2008,"Vans, Cargo Type",5.3,"Automatic",8,12,16,13.8,1,0,0
+"750","Rolls-Royce","Ghost EWB",2015,"Large Cars",6.6,"Automatic",12,13,21,16.6,1,0,0
+"751","Ford","F250 Pickup 2WD",1987,"Standard Pickup Trucks",5,"Manual",8,12,14,12.9,0,0,0
+"752","Ford","Transit T150 Wagon FFV",2015,"Vans, Passenger Type",3.7,"Automatic",6,10,14,11.8,1,0,0
+"753","Plymouth","Horizon",1985,"Compact Cars",2.2,"Manual",4,22,31,26.05,0,1,0
+"754","Honda","Prelude",1993,"Subcompact Cars",2.2,"Automatic",4,20,27,23.15,1,1,0
+"755","Daewoo","Lanos",2001,"Compact Cars",1.6,"Automatic",4,20,30,24.5,1,1,0
+"756","Chevrolet","Sonic",2015,"Compact Cars",1.4,"Manual",4,28,38,32.5,0,1,0
+"757","Chevrolet","C20 Pickup 2WD",1984,"Standard Pickup Trucks 2WD",4.1,"Manual",6,13,15,13.9,0,0,0
+"758","Mazda","MX-5",2013,"Two Seaters",2,"Manual",4,21,27,23.7,0,0,0
+"759","Chevrolet","C1500 Pickup 2WD",1992,"Standard Pickup Trucks",5.7,"Manual",8,13,18,15.25,0,0,0
+"760","Infiniti","Q70 AWD",2015,"Midsize Cars",5.6,"Automatic",8,16,23,19.15,1,0,0
+"761","Mazda","B2300 2WD",2009,"Small Pickup Trucks 2WD",2.3,"Automatic",4,19,24,21.25,1,0,0
+"762","Honda","Passport 2WD",1994,"Special Purpose Vehicles",3.2,"Automatic",6,15,17,15.9,1,0,0
+"763","Lincoln","Town Car",1985,"Large Cars",5,"Automatic",8,14,22,17.6,1,0,0
+"764","Ford","F150 5.0L 2WD FFV GVWR>7599 LBS",2017,"Standard Pickup Trucks 2WD",5,"Automatic",8,11,20,15.05,1,0,0
+"765","Toyota","Camry",2007,"Midsize Cars",3.5,"Automatic",6,19,28,23.05,1,1,0
+"766","Volvo","S40 FWD",2009,"Compact Cars",2.5,"Manual",5,19,28,23.05,0,1,0
+"767","Mercedes-Benz","CLS550 4matic",2012,"Compact Cars",4.7,"Automatic",8,16,25,20.05,1,0,0
+"768","Chrysler","Sebring Convertible",2008,"Subcompact Cars",2.7,"Automatic",6,13,26,18.85,1,1,0
+"769","Chrysler","Town and Country/Voyager/Grand Voy. 2WD",2008,"Minivan - 2WD",4,"Automatic",6,16,23,19.15,1,1,0
+"770","Volkswagen","Jetta III",1993,"Compact Cars",2,"Automatic",4,18,26,21.6,1,1,0
+"771","Buick","Skylark",1997,"Compact Cars",2.4,"Automatic",4,19,29,23.5,1,1,0
+"772","Toyota","Camry Solara",2002,"Compact Cars",2.4,"Automatic",4,21,29,24.6,1,1,0
+"773","BMW","750Li",2010,"Large Cars",4.4,"Automatic",8,14,21,17.15,1,0,0
+"774","Saleen","Mustang S351",1995,"Subcompact Cars",5.8,"Manual",8,13,24,17.95,0,0,0
+"775","Mercedes-Benz","S430",2001,"Large Cars",4.3,"Automatic",8,16,23,19.15,1,0,0
+"776","GMC","Yukon C1500 XL 2WD",2019,"Standard Sport Utility Vehicle 2WD",5.3,"Automatic",8,15,22,18.15,1,0,0
+"777","Mercedes-Benz","S430",2003,"Large Cars",4.3,"Automatic",8,15,22,18.15,1,0,0
+"778","Toyota","Corolla",1989,"Subcompact Cars",1.6,"Automatic",4,23,31,26.6,1,1,0
+"779","Toyota","Yaris",2013,"Compact Cars",1.5,"Automatic",4,30,35,32.25,1,1,0
+"780","Ford","Fiesta FWD",2016,"Subcompact Cars",1.6,"Automatic",4,27,36,31.05,1,1,0
+"781","Toyota","Camry Solara",2000,"Compact Cars",2.2,"Manual",4,21,29,24.6,0,1,0
+"782","Mitsubishi","Eclipse",1996,"Subcompact Cars",2,"Manual",4,19,26,22.15,0,0,0
+"783","Volkswagen","Jetta",2000,"Compact Cars",1.8,"Automatic",4,19,26,22.15,1,1,0
+"784","Oldsmobile","Cutlass Ciera",1991,"Midsize Cars",3.3,"Automatic",6,17,24,20.15,1,1,0
+"785","Honda","Civic",1989,"Subcompact Cars",1.5,"Manual",4,29,35,31.7,0,1,0
+"786","GMC","Yukon XL 1500 2WD",2010,"Sport Utility Vehicle - 2WD",6.2,"Automatic",8,9,14,11.25,1,0,0
+"787","BMW","X4 xDrive28i",2017,"Small Sport Utility Vehicle 4WD",2,"Automatic",4,20,27,23.15,1,0,0
+"788","Cadillac","XT5 AWD",2019,"Small Sport Utility Vehicle 4WD",3.6,"Automatic",6,18,25,21.15,1,0,0
+"789","Mazda","323 Protege 4x4",1991,"Compact Cars",1.8,"Manual",4,21,26,23.25,0,0,0
+"790","GMC","Jimmy 2WD",2000,"Sport Utility Vehicle - 2WD",4.3,"Automatic",6,15,20,17.25,1,0,0
+"791","Suzuki","Vitara 2Door 4WD",2002,"Sport Utility Vehicle - 4WD",2,"Manual",4,20,23,21.35,0,0,0
+"792","Chevrolet","Traverse FWD",2015,"Standard Sport Utility Vehicle 2WD",3.6,"Automatic",6,17,24,20.15,1,1,0
+"793","GMC","Yukon K1500 4WD",2016,"Standard Sport Utility Vehicle 4WD",5.3,"Automatic",8,11,22,15.95,1,0,0
+"794","Ford","Ranger Pickup 2WD",1998,"Standard Pickup Trucks 2WD",2.5,"Manual",4,19,24,21.25,0,0,0
+"795","Chrysler","300/SRT-8",2010,"Large Cars",2.7,"Automatic",6,18,26,21.6,1,0,0
+"796","Chevrolet","Impala",2018,"Large Cars",2.5,"Automatic",4,22,30,25.6,1,1,0
+"797","Mercedes-Benz","R350 4matic",2007,"Sport Utility Vehicle - 4WD",3.5,"Automatic",6,15,20,17.25,1,0,0
+"798","Scion","tC",2006,"Subcompact Cars",2.4,"Manual",4,19,27,22.6,0,1,0
+"799","Toyota","Sienna 2WD",2011,"Minivan - 2WD",3.5,"Automatic",6,18,24,20.7,1,1,0
+"800","Chrysler","JX/JXI/Limited Convertible",1998,"Compact Cars",2.4,"Automatic",4,18,28,22.5,1,1,0
+"801","Volvo","S60 AWD",2006,"Compact Cars",2.5,"Automatic",5,17,25,20.6,1,0,0
+"802","Lincoln","Navigator 2WD",2005,"Sport Utility Vehicle - 2WD",5.4,"Automatic",8,11,17,13.7,1,0,0
+"803","Toyota","Highlander 2WD",2003,"Sport Utility Vehicle - 2WD",2.4,"Automatic",4,19,25,21.7,1,1,0
+"804","Ferrari","348 TB/TS",1991,"Two Seaters",3.4,"Manual",8,12,17,14.25,0,0,0
+"805","GMC","Canyon 2WD",2007,"Standard Pickup Trucks 2WD",2.9,"Manual",4,18,24,20.7,0,0,0
+"806","Mercedes-Benz","Maybach S650",2019,"Large Cars",6,"Automatic",12,13,21,16.6,1,0,0
+"807","Jaguar","XJS Convertible",1993,"Two Seaters",4,"Automatic",6,15,21,17.7,1,0,0
+"808","Toyota","MR2",2005,"Two Seaters",1.8,"Manual",4,23,29,25.7,0,0,0
+"809","GMC","C15 Pickup 2WD",1988,"Standard Pickup Trucks",5,"Automatic",8,13,19,15.7,1,0,0
+"810","Chevrolet","S10 Pickup 2WD",1999,"Small Pickup Trucks 2WD",4.3,"Automatic",6,15,20,17.25,1,0,0
+"811","GMC","Sierra 1500 2WD",1992,"Standard Pickup Trucks",6.2,"Automatic",8,16,22,18.7,1,0,1
+"812","Nissan","Murano AWD",2003,"Sport Utility Vehicle - 4WD",3.5,"Automatic",6,18,23,20.25,1,0,0
+"813","Ford","Explorer 2WD FFV",2013,"Standard Sport Utility Vehicle 2WD",3.5,"Automatic",6,17,24,20.15,1,1,0
+"814","Acura","Integra",1991,"Subcompact Cars",1.8,"Manual",4,21,26,23.25,0,1,0
+"815","Hyundai","Accent/Brio",2005,"Compact Cars",1.5,"Automatic",4,23,32,27.05,1,1,0
+"816","Porsche","Carrera 2 Cabriolet",2004,"Minicompact Cars",3.6,"Automatic",6,16,24,19.6,1,0,0
+"817","Ford","E150 Club Wagon",1987,"Vans",4.9,"Manual",6,14,17,15.35,0,0,0
+"818","Ford","Escape AWD FFV",2012,"Sport Utility Vehicle - 4WD",3,"Automatic",6,18,17,17.55,1,0,0
+"819","Ford","Edge AWD",2019,"Small Sport Utility Vehicle 4WD",2.7,"Automatic",6,19,26,22.15,1,0,0
+"820","GMC","Suburban 1500 4WD",1992,"Special Purpose Vehicles",5.7,"Automatic",8,11,15,12.8,1,0,0
+"821","Lexus","SC 300/SC 400",1995,"Subcompact Cars",3,"Manual",6,16,22,18.7,0,0,0
+"822","Jeep","Compass 2WD",2010,"Sport Utility Vehicle - 2WD",2,"Manual",4,23,29,25.7,0,1,0
+"823","Cadillac","DTS",2009,"Large Cars",4.6,"Automatic",8,15,23,18.6,1,1,0
+"824","GMC","Yukon K1500 4WD",2015,"Standard Sport Utility Vehicle 4WD",5.3,"Automatic",8,11,22,15.95,1,0,0
+"825","Chrysler","Conquest",1988,"Subcompact Cars",2.6,"Automatic",4,16,22,18.7,1,0,0
+"826","Porsche","911 Carrera 4S",2011,"Minicompact Cars",3.8,"Automatic",6,18,26,21.6,1,0,0
+"827","Dodge","Magnum AWD",2007,"Sport Utility Vehicle - 4WD",3.5,"Automatic",6,15,22,18.15,1,0,0
+"828","Infiniti","Q50",2018,"Midsize Cars",3,"Automatic",6,20,29,24.05,1,0,0
+"829","Pontiac","Lemans",1992,"Compact Cars",1.6,"Manual",4,26,37,30.95,0,1,0
+"830","Dodge","Challenger SRT8",2013,"Midsize Cars",6.4,"Manual",8,14,23,18.05,0,0,0
+"831","BMW","330i",2005,"Compact Cars",3,"Automatic",6,18,27,22.05,1,0,0
+"832","Alfa Romeo","164",1991,"Compact Cars",3,"Manual",6,15,23,18.6,0,1,0
+"833","Ford","Ranger Pickup 4WD",1996,"Standard Pickup Trucks",3,"Manual",6,16,22,18.7,0,0,0
+"834","Suzuki","SX4 Sport",2009,"Compact Cars",2,"Automatic",4,22,30,25.6,1,1,0
+"835","Cadillac","XLR",2005,"Two Seaters",4.6,"Automatic",8,15,23,18.6,1,0,0
+"836","Oldsmobile","Silhouette 2WD",1990,"Special Purpose Vehicle 2WD",3.1,"Automatic",6,16,21,18.25,1,1,0
+"837","Toyota","Camry Solara",2004,"Compact Cars",2.4,"Automatic",4,20,29,24.05,1,1,0
+"838","Honda","Civic 2Dr",2019,"Compact Cars",1.5,"Automatic",4,31,40,35.05,1,1,0
+"839","Chevrolet","S10 Pickup 2WD",2000,"Small Pickup Trucks 2WD",2.2,"Automatic",4,17,24,20.15,1,0,0
+"840","Chrysler","200",2013,"Midsize Cars",2.4,"Automatic",4,20,30,24.5,1,1,0
+"841","Chevrolet","HHR Panel FWD",2010,"Sport Utility Vehicle - 2WD",2.4,"Manual",4,16,30,22.3,0,1,0
+"842","Chevrolet","K1500 Pickup 4WD",1989,"Standard Pickup Trucks",4.3,"Manual",6,15,19,16.8,0,0,0
+"843","Ford","Focus FWD",2016,"Compact Cars",1,"Manual",3,30,41,34.95,0,1,0
+"844","Chevrolet","Express 1500/2500 2WD",2007,"Vans, Passenger Type",5.3,"Automatic",8,12,16,13.8,1,0,0
+"845","Porsche","Cayenne",2011,"Sport Utility Vehicle - 4WD",3.6,"Automatic",6,16,22,18.7,1,0,0
+"846","Jaguar","X-Type",2004,"Compact Cars",2.5,"Automatic",6,16,24,19.6,1,0,0
+"847","Pontiac","GTO",2004,"Compact Cars",5.7,"Manual",8,16,26,20.5,0,0,0
+"848","Ford","E150 Club Wagon",1996,"Vans",4.9,"Automatic",6,11,15,12.8,1,0,0
+"849","Toyota","Paseo",1996,"Minicompact Cars",1.5,"Automatic",4,24,31,27.15,1,1,0
+"850","Chevrolet","Camaro",1993,"Subcompact Cars",5.7,"Manual",8,15,23,18.6,0,0,0
+"851","Cadillac","SRX AWD",2016,"Standard Sport Utility Vehicle 4WD",3.6,"Automatic",6,16,23,19.15,1,0,0
+"852","Mitsubishi","Raider Pickup 2WD",2010,"Standard Pickup Trucks 2WD",3.7,"Automatic",6,15,20,17.25,1,0,0
+"853","Dodge","Journey FWD",2015,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,19,25,21.7,1,1,0
+"854","Dodge","Charger",2015,"Large Cars",3.6,"Automatic",6,19,30,23.95,1,0,0
+"855","Toyota","Tundra 4WD FFV",2010,"Standard Pickup Trucks 4WD",5.7,"Automatic",8,10,13,11.35,1,0,0
+"856","Chevrolet","V10 Suburban 4WD",1988,"Special Purpose Vehicles",5.7,"Automatic",8,11,15,12.8,1,0,0
+"857","Hyundai","Sonata Plug-in Hybrid",2018,"Midsize Cars",2,"Automatic",4,37,42,39.25,1,1,0
+"858","Chrysler","Town and Country/Voyager/Grand Voy. 2WD",2002,"Minivan - 2WD",3.8,"Automatic",6,16,22,18.7,1,1,0
+"859","Ford","Ranger Pickup 2WD",2006,"Standard Pickup Trucks 2WD",2.3,"Manual",4,21,27,23.7,0,0,0
+"860","Ford","Mustang",1989,"Subcompact Cars",5,"Manual",8,15,22,18.15,0,0,0
+"861","Mercedes-Benz","R350 Bluetec",2010,"Sport Utility Vehicle - 4WD",3,"Automatic",6,18,24,20.7,1,0,1
+"862","Dodge","B150/B250 Van 2WD",1993,"Vans",3.9,"Automatic",6,14,16,14.9,1,0,0
+"863","Chevrolet","Cavalier Wagon",1990,"Small Station Wagons",2.2,"Automatic",4,21,29,24.6,1,1,0
+"864","Chevrolet","Suburban C1500 2WD",2015,"Standard Sport Utility Vehicle 2WD",5.3,"Automatic",8,12,17,14.25,1,0,0
+"865","Chrysler","LeBaron GTS",1989,"Midsize Cars",2.2,"Manual",4,21,31,25.5,0,1,0
+"866","Audi","A8 L",2018,"Large Cars",4,"Automatic",8,16,26,20.5,1,0,0
+"867","Renault","Alliance/Encore",1986,"Compact Cars",1.4,"Automatic",4,23,27,24.8,1,1,0
+"868","Mercedes-Benz","C350",2013,"Compact Cars",3.5,"Automatic",6,20,21,20.45,1,0,0
+"869","Cadillac","CTS",2013,"Midsize Cars",3.6,"Automatic",6,18,26,21.6,1,0,0
+"870","Chrysler","300",2015,"Large Cars",3.6,"Automatic",6,19,30,23.95,1,0,0
+"871","GMC","Yukon K1500 4WD",2015,"Standard Sport Utility Vehicle 4WD",6.2,"Automatic",8,15,21,17.7,1,0,0
+"872","Mercury","Marquis",1986,"Midsize Cars",3.8,"Automatic",6,17,21,18.8,1,0,0
+"873","CX Automotive","CX 25 GTI",1988,"Midsize Cars",2.5,"Automatic",4,16,20,17.8,1,1,0
+"874","BMW","335ci",2007,"Subcompact Cars",3,"Automatic",6,18,26,21.6,1,0,0
+"875","Chrysler","Town and Country/Voyager/Grand Voy. 2WD",2002,"Minivan - 2WD",3.3,"Automatic",6,12,16,13.8,1,1,0
+"876","Nissan","Sentra Wagon",1990,"Small Station Wagons",1.6,"Manual",4,23,33,27.5,0,1,0
+"877","Jeep","Grand Cherokee 4WD",2011,"Sport Utility Vehicle - 4WD",3.6,"Automatic",6,12,22,16.5,1,0,0
+"878","Volkswagen","Passat",1998,"Midsize Cars",1.8,"Automatic",4,18,28,22.5,1,1,0
+"879","Subaru","Forester AWD",2004,"Sport Utility Vehicle - 4WD",2.5,"Automatic",4,17,21,18.8,1,0,0
+"880","Chrysler","PT Cruiser",2001,"Sport Utility Vehicle - 2WD",2.4,"Automatic",4,17,23,19.7,1,1,0
+"881","Merkur","XR4Ti",1988,"Compact Cars",2.3,"Manual",4,18,23,20.25,0,0,0
+"882","Toyota","Tundra 4WD",2011,"Standard Pickup Trucks 4WD",4.6,"Automatic",8,14,19,16.25,1,0,0
+"883","AM General","Post Office DJ5 2WD",1985,"Special Purpose Vehicle 2WD",2.5,"Automatic",4,16,17,16.45,1,0,0
+"884","Saab","9000",1992,"Large Cars",2.3,"Automatic",4,15,22,18.15,1,1,0
+"885","Dodge","AD100/AD150 Ramcharger 2WD",1989,"Special Purpose Vehicle 2WD",5.2,"Automatic",8,11,16,13.25,1,0,0
+"886","Toyota","Camry",2005,"Midsize Cars",2.4,"Automatic",4,21,31,25.5,1,1,0
+"887","GMC","Safari 2WD (cargo)",1996,"Vans",4.3,"Automatic",6,15,20,17.25,1,0,0
+"888","Mazda","B2200/B2600i",1991,"Standard Pickup Trucks",2.2,"Manual",4,18,23,20.25,0,0,0
+"889","Dodge","D100/D150 Pickup 2WD",1989,"Standard Pickup Trucks",3.9,"Automatic",6,14,17,15.35,1,0,0
+"890","GMC","Canyon Cab Chassis Inc 2WD",2012,"Small Pickup Trucks 2WD",3.7,"Automatic",5,15,20,17.25,1,0,0
+"891","Mitsubishi","Mirage",1999,"Subcompact Cars",1.8,"Manual",4,25,33,28.6,0,1,0
+"892","Ford","F150 Pickup 2WD",1988,"Standard Pickup Trucks",4.9,"Manual",6,15,17,15.9,0,0,0
+"893","Chevrolet","Camaro",1994,"Subcompact Cars",5.7,"Automatic",8,15,22,18.15,1,0,0
+"894","Cadillac","Catera",2000,"Midsize Cars",3,"Automatic",6,16,23,19.15,1,0,0
+"895","Wallace Environmental","Wetl 300 SL",1991,"Minicompact Cars",2.9,"Automatic",6,15,16,15.45,1,0,0
+"896","GMC","Sierra 2500 2WD",1994,"Standard Pickup Trucks 2WD",5,"Manual",8,12,17,14.25,0,0,0
+"897","Dodge","Dakota Pickup 4WD",2006,"Standard Pickup Trucks 4WD",3.7,"Automatic",6,14,18,15.8,1,0,0
+"898","Mercedes-Benz","E320",2004,"Midsize Cars",3.2,"Automatic",6,17,24,20.15,1,0,0
+"899","Mercedes-Benz","ML350 4matic",2015,"Standard Sport Utility Vehicle 4WD",3.5,"Automatic",6,13,22,17.05,1,0,0
+"900","Mercury","Sable",1987,"Midsize Cars",3,"Automatic",6,17,26,21.05,1,1,0
+"901","Volvo","XC60 FWD",2015,"Small Sport Utility Vehicle 2WD",2,"Automatic",4,24,31,27.15,1,1,0
+"902","Chevrolet","Silverado K15 4WD",2011,"Standard Pickup Trucks 4WD",6.2,"Automatic",8,12,18,14.7,1,0,0
+"903","Scion","FR-S",2014,"Minicompact Cars",2,"Automatic",4,24,33,28.05,1,0,0
+"904","Lexus","IS 250/IS 250C",2010,"Subcompact Cars",2.5,"Automatic",6,21,29,24.6,1,0,0
+"905","Jaguar","XF",2015,"Midsize Cars",2,"Automatic",4,19,30,23.95,1,0,0
+"906","Jeep","Cherokee 4WD",2019,"Small Sport Utility Vehicle 4WD",2.4,"Automatic",4,21,29,24.6,1,0,0
+"907","GMC","Acadia FWD",2015,"Standard Sport Utility Vehicle 2WD",3.6,"Automatic",6,17,24,20.15,1,1,0
+"908","GMC","Sonoma 2WD",1999,"Small Pickup Trucks 2WD",4.3,"Automatic",6,15,20,17.25,1,0,0
+"909","Mercury","Sable Wagon",1990,"Midsize-Large Station Wagons",3.8,"Automatic",6,16,23,19.15,1,1,0
+"910","Nissan","Frontier 4WD",2012,"Small Pickup Trucks 4WD",4,"Manual",6,16,20,17.8,0,0,0
+"911","Dodge","Omni",1985,"Compact Cars",1.6,"Manual",4,27,36,31.05,0,1,0
+"912","Mitsubishi","Outlander 2WD",2003,"Sport Utility Vehicle - 2WD",2.4,"Automatic",4,18,24,20.7,1,1,0
+"913","Cadillac","STS-V",2007,"Midsize Cars",4.4,"Automatic",8,12,19,15.15,1,0,0
+"914","Mercury","Tracer Wagon",1991,"Small Station Wagons",1.9,"Manual",4,25,33,28.6,0,1,0
+"915","Volkswagen","Golf/GTI",1996,"Compact Cars",2,"Automatic",4,19,26,22.15,1,1,0
+"916","Dodge","Dart",2014,"Midsize Cars",2,"Automatic",4,16,23,19.15,1,1,0
+"917","Ford","Flex AWD",2015,"Standard Sport Utility Vehicle 4WD",3.5,"Automatic",6,17,23,19.7,1,0,0
+"918","Lamborghini","L-140/715 Gallardo",2006,"Two Seaters",5,"Manual",10,10,16,12.7,0,0,0
+"919","Ford","Aerostar Van",1992,"Vans",3,"Manual",6,18,23,20.25,0,0,0
+"920","Porsche","911 Carrera GTS",2018,"Minicompact Cars",3,"Automatic",6,20,26,22.7,1,0,0
+"921","Subaru","Loyale Wagon 4WD",1991,"Special Purpose Vehicles",1.8,"Manual",4,21,26,23.25,0,0,0
+"922","Porsche","Panamera Turbo S e-Hybrid ST",2018,"Large Cars",4,"Automatic",8,19,51,33.4,1,0,0
+"923","Mercedes-Benz","GLA250 4matic",2019,"Small Sport Utility Vehicle 4WD",2,"Automatic",4,23,31,26.6,1,0,0
+"924","Jeep","Wrangler 4WD",2002,"Sport Utility Vehicle - 4WD",2.5,"Automatic",4,14,17,15.35,1,0,0
+"925","Nissan","350z Roadster",2008,"Two Seaters",3.5,"Manual",6,17,24,20.15,0,0,0
+"926","Chevrolet","Sonic 5",2018,"Small Station Wagons",1.4,"Manual",4,28,37,32.05,0,1,0
+"927","Lexus","LS 600h L",2013,"Midsize Cars",5,"Automatic",8,19,23,20.8,1,0,0
+"928","Mitsubishi","Outlander Sport 2WD",2019,"Small Sport Utility Vehicle 2WD",2.4,"Automatic",4,23,29,25.7,1,1,0
+"929","Porsche","Cayenne GTS",2018,"Standard Sport Utility Vehicle 4WD",3.6,"Automatic",6,16,23,19.15,1,0,0
+"930","Dodge","Journey FWD",2014,"Small Sport Utility Vehicle 2WD",3.6,"Automatic",6,12,25,17.85,1,1,0
+"931","Chevrolet","Suburban C1500 2WD",2017,"Standard Sport Utility Vehicle 2WD",5.3,"Automatic",8,16,17,16.45,1,0,0
+"932","Mercury","Grand Marquis",2007,"Large Cars",4.6,"Automatic",8,11,16,13.25,1,0,0
+"933","Toyota","Camry Hybrid LE",2012,"Midsize Cars",2.5,"Automatic",4,42,38,40.2,1,1,0
+"934","Infiniti","G25",2012,"Midsize Cars",2.5,"Automatic",6,20,29,24.05,1,0,0
+"935","Nissan","Sentra",1989,"Compact Cars",1.6,"Manual",4,25,32,28.15,0,1,0
+"936","Jaguar","F-Type Coupe",2017,"Two Seaters",3,"Automatic",6,20,28,23.6,1,0,0
+"937","Buick","Verano",2017,"Compact Cars",2.4,"Automatic",4,21,31,25.5,1,1,0
+"938","Mitsubishi","Montero",2000,"Sport Utility Vehicle - 4WD",3,"Manual",6,14,17,15.35,0,0,0
+"939","Mitsubishi","Eclipse",2007,"Subcompact Cars",2.4,"Automatic",4,20,26,22.7,1,1,0
+"940","Mercury","Mystique",2000,"Compact Cars",2,"Manual",4,21,31,25.5,0,1,0
+"941","Oldsmobile","Firenza Cruiser Wagon",1985,"Small Station Wagons",2.8,"Automatic",6,17,24,20.15,1,1,0
+"942","Mercedes-Benz","300SD",1985,"Compact Cars",3,"Automatic",5,19,20,19.45,1,0,1
+"943","GMC","Safari 2WD Conversion (cargo)",2005,"Vans, Cargo Type",4.3,"Automatic",6,14,19,16.25,1,0,0
+"944","GMC","C2500 Sierra 2WD",1989,"Standard Pickup Trucks",6.2,"Automatic",8,16,23,19.15,1,0,1
+"945","Buick","Somerset/Skylark",1987,"Compact Cars",3,"Automatic",6,17,25,20.6,1,1,0
+"946","Honda","Civic Hybrid",2013,"Compact Cars",1.5,"Automatic",4,43,44,43.45,1,1,0
+"947","Toyota","Cab/Chassis 2WD",1993,"Special Purpose Vehicles",3,"Automatic",6,10,10,10,1,0,0
+"948","Mercedes-Benz","S550",2015,"Large Cars",4.7,"Automatic",8,17,26,21.05,1,0,0
+"949","Saab","9-3 Aero SportCombi AWD",2008,"Small Station Wagons",2.8,"Manual",6,16,24,19.6,0,0,0
+"950","Jeep","Cherokee 2WD",1989,"Special Purpose Vehicle 2WD",2.5,"Manual",4,18,22,19.8,0,0,0
+"951","Lincoln","MKZ AWD",2016,"Midsize Cars",2,"Automatic",4,22,31,26.05,1,0,0
+"952","Saab","9-4X AWD",2011,"Sport Utility Vehicle - 4WD",3,"Automatic",6,17,22,19.25,1,0,0
+"953","Dodge","Avenger",2008,"Midsize Cars",2.7,"Automatic",6,19,20,19.45,1,1,0
+"954","Dodge","B350 Van 2WD",1987,"Vans",5.9,"Automatic",8,10,12,10.9,1,0,0
+"955","Dodge","B150/B250 Van 2WD",1986,"Vans",3.7,"Automatic",6,12,14,12.9,1,0,0
+"956","Honda","Accord",1988,"Compact Cars",2,"Automatic",4,20,26,22.7,1,1,0
+"957","Ford","Taurus",2005,"Large Cars",3,"Automatic",6,17,25,20.6,1,1,0
+"958","Chevrolet","V10 (K10) Pickup 4WD",1987,"Standard Pickup Trucks",5.7,"Automatic",8,11,15,12.8,1,0,0
+"959","Chevrolet","Caprice",1986,"Large Cars",4.3,"Automatic",6,16,22,18.7,1,0,0
+"960","Chevrolet","Camaro",2015,"Compact Cars",7,"Manual",8,13,19,15.7,0,0,0
+"961","Saab","9-5 Sedan",2008,"Midsize Cars",2.3,"Manual",4,18,28,22.5,0,1,0
+"962","Chevrolet","Suburban 1500 2WD",2007,"Sport Utility Vehicle - 2WD",5.3,"Automatic",8,10,20,14.5,1,0,0
+"963","Ford","Explorer 4WD",2002,"Sport Utility Vehicle - 4WD",4,"Manual",6,14,18,15.8,0,0,0
+"964","Land Rover","Range Rover LWB",2020,"Standard Sport Utility Vehicle 4WD",5,"Automatic",8,16,21,18.25,1,0,0
+"965","Ford","Escort",1995,"Compact Cars",1.9,"Automatic",4,23,31,26.6,1,1,0
+"966","Isuzu","Pickup 4WD",1986,"Small Pickup Trucks",2.3,"Manual",4,17,22,19.25,0,0,0
+"967","Chevrolet","Camaro",2012,"Compact Cars",3.6,"Automatic",6,19,29,23.5,1,0,0
+"968","GMC","Yukon K1500 4WD",2020,"Standard Sport Utility Vehicle 4WD",5.3,"Automatic",8,15,21,17.7,1,0,0
+"969","Mazda","MX-5",2014,"Two Seaters",2,"Manual",4,22,27,24.25,0,0,0
+"970","Pontiac","Sunbird Convertible",1990,"Subcompact Cars",2,"Automatic",4,19,26,22.15,1,1,0
+"971","Mitsubishi","Eclipse Spyder",2003,"Minicompact Cars",2.4,"Automatic",4,18,24,20.7,1,1,0
+"972","Chevrolet","Lumina",1993,"Midsize Cars",3.4,"Manual",6,15,24,19.05,0,1,0
+"973","Plymouth","Sundance",1988,"Compact Cars",2.5,"Manual",4,20,28,23.6,0,1,0
+"974","Cadillac","Allante",1991,"Two Seaters",4.5,"Automatic",8,14,20,16.7,1,1,0
+"975","GMC","Savana 1500 2WD (cargo)",2011,"Vans, Cargo Type",5.3,"Automatic",8,13,13,13,1,0,0
+"976","Nissan","Armada 4WD",2008,"Sport Utility Vehicle - 4WD",5.6,"Automatic",8,9,17,12.6,1,0,0
+"977","Ford","Mustang Convertible",2016,"Subcompact Cars",5,"Automatic",8,15,23,18.6,1,0,0
+"978","MINI","Cooper S Roadster",2013,"Two Seaters",1.6,"Automatic",4,26,34,29.6,1,1,0
+"979","Mercedes-Benz","C240 FFV",2004,"Compact Cars",2.6,"Automatic",6,13,17,14.8,1,0,0
+"980","Buick","Encore",2017,"Small Sport Utility Vehicle 2WD",1.4,"Automatic",4,25,33,28.6,1,1,0
+"981","Toyota","4Runner 4WD",1988,"Special Purpose Vehicles",2.4,"Manual",4,17,20,18.35,0,0,0
+"982","Chevrolet","S10 Pickup 2WD",1987,"Small Pickup Trucks",2.5,"Manual",4,20,26,22.7,0,0,0
+"983","Chevrolet","Silverado C15 2WD",2007,"Standard Pickup Trucks 2WD",5.3,"Automatic",8,15,20,17.25,1,0,0
+"984","Buick","Regal",1989,"Midsize Cars",3.1,"Automatic",6,17,28,21.95,1,1,0
+"985","Chevrolet","Tahoe 1500 2WD",1999,"Sport Utility Vehicle - 2WD",5.7,"Automatic",8,12,16,13.8,1,0,0
+"986","Nissan","Truck 2WD",1988,"Small Pickup Trucks",3,"Manual",6,15,22,18.15,0,0,0
+"987","Saab","9000",1995,"Large Cars",2.3,"Manual",4,18,26,21.6,0,1,0
+"988","Chevrolet","K1500 Pickup 4WD",1993,"Standard Pickup Trucks",4.3,"Automatic",6,14,17,15.35,1,0,0
+"989","Audi","A3",2013,"Small Station Wagons",2,"Automatic",4,21,28,24.15,1,1,0
+"990","Jeep","Liberty/Cherokee 4WD",2003,"Sport Utility Vehicle - 4WD",3.7,"Automatic",6,15,20,17.25,1,0,0
+"991","Kia","Forte",2019,"Midsize Cars",2,"Automatic",4,30,40,34.5,1,1,0
+"992","Maserati","Spider Cambiocorsa/Spider GT",2003,"Two Seaters",4.2,"Automatic",8,10,16,12.7,1,0,0
+"993","Toyota","Tacoma 4WD",1998,"Standard Pickup Trucks 4WD",3.4,"Automatic",6,15,18,16.35,1,0,0
+"994","BMW","540i Sport Wagon",2000,"Small Station Wagons",4.4,"Automatic",8,14,19,16.25,1,0,0
+"995","Subaru","Wagon 4WD",1986,"Special Purpose Vehicles",1.8,"Automatic",4,19,22,20.35,1,0,0
+"996","Dodge","B1500/B2500 Wagon 2WD",1995,"Vans",5.9,"Automatic",8,11,15,12.8,1,0,0
+"997","Mitsubishi","Eclipse",2011,"Subcompact Cars",2.4,"Manual",4,20,27,23.15,0,1,0
+"998","Kia","K900",2020,"Large Cars",3.3,"Automatic",6,18,25,21.15,1,0,0
+"999","Kia","Sportage 4WD",2000,"Sport Utility Vehicle - 4WD",2,"Automatic",4,17,20,18.35,1,0,0
+"1000","Nissan","300ZX",1992,"Two Seaters",3,"Manual",6,16,22,18.7,0,0,0
