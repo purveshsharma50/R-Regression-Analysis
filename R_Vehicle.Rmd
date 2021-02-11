@@ -1,11 +1,4 @@
----
-title: "Final_Exam_Q13"
-author: "Purvesh"
-date: "5/7/2020"
-output:
-  word_document: default
-  html_document: default
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
